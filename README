@@ -1,0 +1,15 @@
+This is a description of the template project for the Identity Resolution exercise
+Web Data Integration course, University of Mannheim, 2013
+http://dws.informatik.uni-mannheim.de/en/teaching/courses-for-master-candidates/ie-670-web-data-integration/
+
+See Exercise 2 - Identity Resolution slides on the course page or in docs folder for the detailed introduction to the project.
+
+SUMMARY
+- Define you parameters in IDResolution.main()
+- Define your matching strategy in uma.wdi.ir.matching and uma.wdi.ir.similarity packages
+- Define your blocking key in uma.wdi.ir.blocking
+- Run the evaluation: evaluate your strategy in IDResolution.main()
+or
+- Prepare input for RapidMiner to learn the optimal strategy, in IDResolution.main() 
+
+Sample input and gold standard files can be found resources/movies/

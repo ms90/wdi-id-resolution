@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<process version="5.3.013">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="5.3.013" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="read_csv" compatibility="5.3.013" expanded="true" height="60" name="Read CSV" width="90" x="45" y="120">
+        <parameter key="csv_file" value="C:\Users\Heiko\workspace\WDI_Exercise_IDResolution\movies\output\id\regression.csv"/>
+        <parameter key="column_separators" value=","/>
+        <parameter key="trim_lines" value="false"/>
+        <parameter key="use_quotes" value="true"/>
+        <parameter key="quotes_character" value="&quot;"/>
+        <parameter key="escape_character" value="\"/>
+        <parameter key="skip_comments" value="false"/>
+        <parameter key="comment_characters" value="#"/>
+        <parameter key="parse_numbers" value="true"/>
+        <parameter key="decimal_character" value="."/>
+        <parameter key="grouped_digits" value="false"/>
+        <parameter key="grouping_character" value=","/>
+        <parameter key="date_format" value=""/>
+        <parameter key="first_row_as_names" value="false"/>
+        <list key="annotations">
+          <parameter key="0" value="Name"/>
+        </list>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="encoding" value="windows-1252"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="DemoTitleMatcher.true.real.attribute"/>
+          <parameter key="1" value="DemoDateMatcher.true.real.attribute"/>
+          <parameter key="2" value="score.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="true"/>
+        <parameter key="datamanagement" value="double_array"/>
+      </operator>
+      <operator activated="true" class="set_role" compatibility="5.3.013" expanded="true" height="76" name="Set Role" width="90" x="246" y="120">
+        <parameter key="attribute_name" value="score"/>
+        <parameter key="target_role" value="label"/>
+        <list key="set_additional_roles"/>
+      </operator>
+      <operator activated="true" class="linear_regression" compatibility="5.3.013" expanded="true" height="94" name="Linear Regression" width="90" x="514" y="120">
+        <parameter key="feature_selection" value="M5 prime"/>
+        <parameter key="alpha" value="0.05"/>
+        <parameter key="max_iterations" value="10"/>
+        <parameter key="forward_alpha" value="0.05"/>
+        <parameter key="backward_alpha" value="0.05"/>
+        <parameter key="eliminate_colinear_features" value="true"/>
+        <parameter key="min_tolerance" value="0.05"/>
+        <parameter key="use_bias" value="true"/>
+        <parameter key="ridge" value="1.0E-8"/>
+      </operator>
+      <connect from_op="Read CSV" from_port="output" to_op="Set Role" to_port="example set input"/>
+      <connect from_op="Set Role" from_port="example set output" to_op="Linear Regression" to_port="training set"/>
+      <connect from_op="Linear Regression" from_port="model" to_port="result 1"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+    </process>
+  </operator>
+</process>
