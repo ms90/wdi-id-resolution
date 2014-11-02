@@ -19,11 +19,11 @@ import java.util.LinkedList;
 import java.util.List;
 
 import uma.wdi.ir.blocking.BlockingOperator;
-import uma.wdi.ir.blocking.DemoBlockingOperator;
+import uma.wdi.ir.blocking.BlockingByYear;
 import uma.wdi.ir.blocking.NoBlockingOperator;
-import uma.wdi.ir.matching.DemoCompoundMatcher;
-import uma.wdi.ir.matching.DemoDateMatcher;
-import uma.wdi.ir.matching.DemoTitleMatcher;
+import uma.wdi.ir.matching.TitleDateMatcher;
+import uma.wdi.ir.matching.DateMatcher;
+import uma.wdi.ir.matching.TitleMatcher;
 import uma.wdi.ir.matching.AbstractMatcher;
 
 public class IDResolution 
@@ -102,25 +102,25 @@ public class IDResolution
 		
 		// PROJECT TODO: SPECIFY YOUR INPUT PARAMETERS HERE
 		// gold standard file
-		String fnGold = "resources/movies/gold.csv";
+		String fnGold = "resources/videogames/gold.csv";
 		// input files
-		String fnDataset1 = "resources/movies/datasets/test1.xml";
-		String fnDataset2 = "resources/movies/datasets/test2.xml";
+		String fnDataset1 = "resources/xml/dbpedia.xml";
+		String fnDataset2 = "resources/xml/giantbomb.xml";
 		// path to ID tag 
-		String idPath = "/movies/movie/id";
+		String idPath = "/videogame/id";
 		
-		String fnOutput = "resources/movies/matched-1-2.txt";
-		String fnRegression = "resources/movies/regression.csv";
+		String fnOutput = "resources/videogames/matched.txt";
+		String fnRegression = "resources/videogames/regression.csv";
 		
 		System.out.println("Matching by titles only");
 		System.out.println("WITHOUT BLOCKING, run 1:");
-		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new DemoTitleMatcher(), true);
+		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new TitleMatcher(), true);
 		System.out.println();
 		System.out.println("WITHOUT BLOCKING, run 2:");
-		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new DemoTitleMatcher(), true);
+		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new TitleMatcher(), true);
 		System.out.println();
 		System.out.println("WITH BLOCKING:");
-		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new DemoBlockingOperator(), new DemoTitleMatcher(), true);
+		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByYear(), new TitleMatcher(), true);
 		System.out.println("----------------");
 
 //		System.out.println("Matching by dates only");
@@ -133,13 +133,13 @@ public class IDResolution
 //	
 //		System.out.println("Matching by titles and dates");
 //		System.out.println("WITHOUT BLOCKING:");
-//		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new DemoCompoundMatcher(), true);
+//		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new TitleDateMatcher(), true);
 //		System.out.println();
 //		System.out.println("WITH BLOCKING:");
-//		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new DemoBlockingOperator(), new DemoCompoundMatcher(), true);
+//		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new DemoBlockingOperator(), new TitleDateMatcher(), true);
 //		System.out.println("----------------");
-//		
-		runOutputResults(fnDataset1, fnDataset2, idPath, fnOutput, new DemoBlockingOperator(), new DemoTitleMatcher());
+		
+		runOutputResults(fnDataset1, fnDataset2, idPath, fnOutput, new BlockingByYear(), new TitleMatcher());
 		
 //		List<AbstractMatcher> matchers = Arrays.asList(new AbstractMatcher[]{new DemoTitleMatcher(),new DemoDateMatcher()});
 //		runWriteRegressionFile(fnDataset1, fnDataset2, idPath, fnGold, fnRegression, matchers);

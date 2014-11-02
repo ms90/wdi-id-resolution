@@ -34,9 +34,9 @@ import java.util.Random;
 import java.util.Set;
 
 import uma.wdi.ir.blocking.BlockingOperator;
-import uma.wdi.ir.blocking.DemoBlockingOperator;
+import uma.wdi.ir.blocking.BlockingByYear;
 import uma.wdi.ir.blocking.NoBlockingOperator;
-import uma.wdi.ir.matching.DemoTitleMatcher;
+import uma.wdi.ir.matching.TitleMatcher;
 import uma.wdi.ir.matching.AbstractMatcher;
 
 public class Evaluator 
@@ -87,7 +87,7 @@ public class Evaluator
 	// Main function, with some default values
 	public boolean evaluate(NodeMap m1, NodeMap m2, String goldStandard)
 	{
-		return evaluate(m1, m2, goldStandard, new NoBlockingOperator(), new DemoTitleMatcher());
+		return evaluate(m1, m2, goldStandard, new NoBlockingOperator(), new TitleMatcher());
 	}	
 	
 	// Writes a CSV file that can be loaded in RapidMiner for linear regression 

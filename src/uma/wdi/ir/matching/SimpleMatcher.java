@@ -17,6 +17,8 @@ package uma.wdi.ir.matching;
 import java.util.Set;
 
 import uma.wdi.ir.ANode;
+import uma.wdi.ir.similarity.DateSimilarityFunction;
+import uma.wdi.ir.similarity.LevensteinSimilarityFunction;
 import uma.wdi.ir.similarity.SimilarityFunction;
 
 /**
@@ -37,8 +39,7 @@ public class SimpleMatcher extends AbstractMatcher {
         this.function = function;
         this.setThreshold(threshold);
     }
-	
-	
+
 	@Override
 	public double doMatch(ANode n1, ANode n2) 
 	{
