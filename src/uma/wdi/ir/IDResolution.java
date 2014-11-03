@@ -104,10 +104,10 @@ public class IDResolution
 		// gold standard file
 		String fnGold = "resources/videogames/gold.csv";
 		// input files
-		String fnDataset1 = "resources/xml/dbpedia.xml";
-		String fnDataset2 = "resources/xml/giantbomb.xml";
+		String fnDataset1 = "resources/videogames/xml/dbpedia.xml";
+		String fnDataset2 = "resources/videogames/xml/giantbomb.xml";
 		// path to ID tag 
-		String idPath = "/videogame/id";
+		String idPath = "/data/videogame/id";
 		
 		String fnOutput = "resources/videogames/matched.txt";
 		String fnRegression = "resources/videogames/regression.csv";
