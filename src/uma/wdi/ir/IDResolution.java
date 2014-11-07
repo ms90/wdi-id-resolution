@@ -18,6 +18,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
+import uma.wdi.ir.blocking.BlockingByTitle;
 import uma.wdi.ir.blocking.BlockingOperator;
 import uma.wdi.ir.blocking.BlockingByYear;
 import uma.wdi.ir.blocking.NoBlockingOperator;
@@ -120,7 +121,7 @@ public class IDResolution
 		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new TitleMatcher(), true);
 		System.out.println();
 		System.out.println("WITH BLOCKING:");
-		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByYear(), new TitleMatcher(), true);
+		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new TitleMatcher(), true);
 		System.out.println("----------------");
 
 //		System.out.println("Matching by dates only");
@@ -139,7 +140,7 @@ public class IDResolution
 //		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new DemoBlockingOperator(), new TitleDateMatcher(), true);
 //		System.out.println("----------------");
 		
-		runOutputResults(fnDataset1, fnDataset2, idPath, fnOutput, new BlockingByYear(), new TitleMatcher());
+		runOutputResults(fnDataset1, fnDataset2, idPath, fnOutput, new BlockingByTitle(), new TitleMatcher());
 		
 //		List<AbstractMatcher> matchers = Arrays.asList(new AbstractMatcher[]{new DemoTitleMatcher(),new DemoDateMatcher()});
 //		runWriteRegressionFile(fnDataset1, fnDataset2, idPath, fnGold, fnRegression, matchers);
