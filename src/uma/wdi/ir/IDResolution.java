@@ -117,9 +117,9 @@ public class IDResolution
 		System.out.println("WITHOUT BLOCKING, run 1:");
 		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new TitleMatcher(), true);
 		System.out.println();
-		System.out.println("WITHOUT BLOCKING, run 2:");
-		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new TitleMatcher(), true);
-		System.out.println();
+//		System.out.println("WITHOUT BLOCKING, run 2:");
+//		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new TitleMatcher(), true);
+//		System.out.println();
 		System.out.println("WITH BLOCKING:");
 		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new TitleMatcher(), true);
 		System.out.println("----------------");

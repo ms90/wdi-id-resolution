@@ -51,6 +51,7 @@ public class Evaluator
 	 */
 	
 	private double runTime = -1;
+	private double runTimeMin = -1; 
 	private double P = -1;
 	private double R = -1;
 	private double F1 = -1;
@@ -68,7 +69,7 @@ public class Evaluator
 	private Set<String> result = new HashSet<String>();
 
 	// for calculating the precision
-	private Set<String> gold_ids = new HashSet<String>(); 
+	private Set<String> gold_ids = new HashSet<String>();
 
 	/* Main function:  load gold standard -> calculate matching scores -> evaluate results */
 	public boolean evaluate(NodeMap m1, NodeMap m2, String goldStandard, BlockingOperator bo, AbstractMatcher ma)
@@ -220,7 +221,8 @@ public class Evaluator
 		System.out.println("R = " + R);
 		System.out.println("F1 = " + F1);
 		System.out.println("Matching operations = " + countMatchingOperations);
-		System.out.println("runtime = " + runTime);        
+		System.out.println("Runtime = " + runTime + "ms");   
+		System.out.println("Runtime in min. = " + runTimeMin);
 		if (printResList)
 		{
 			for (String id : result) 
@@ -321,6 +323,7 @@ public class Evaluator
 		// End logging time
         Long endTime = new Date().getTime();
         runTime = endTime - startTime;
+        runTimeMin = Math.round((endTime - startTime)/60000);
         
         countMatchingOperations = ma.getCount();
         
