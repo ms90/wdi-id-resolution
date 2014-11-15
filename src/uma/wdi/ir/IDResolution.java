@@ -23,8 +23,13 @@ import uma.wdi.ir.blocking.BlockingOperator;
 import uma.wdi.ir.blocking.BlockingByYear;
 import uma.wdi.ir.blocking.NoBlockingOperator;
 import uma.wdi.ir.matching.CosineTitleMatcher;
+import uma.wdi.ir.matching.DiceTitleMatcher;
 import uma.wdi.ir.matching.JaccardTitleMatcher;
+import uma.wdi.ir.matching.JaroWinklerTitleMatcher;
+import uma.wdi.ir.matching.MongeElkanTitleMatcher;
 import uma.wdi.ir.matching.NeedlemanWunschTitleMatcher;
+import uma.wdi.ir.matching.SmithWatermanGotohTitleMatcher;
+import uma.wdi.ir.matching.TFIDFTitleMatcher;
 import uma.wdi.ir.matching.TitleDateMatcher;
 import uma.wdi.ir.matching.DateMatcher;
 import uma.wdi.ir.matching.LevensteinTitleMatcher;
@@ -106,10 +111,13 @@ public class IDResolution
 		
 		// PROJECT TODO: SPECIFY YOUR INPUT PARAMETERS HERE
 		// gold standard file
-		String fnGold = "resources/videogames/gold.csv";
+		String fnGold = "resources/videogames/gold_1.csv";
+//		String fnGold = "resources/videogames/gold_2.csv";
 		// input files
 		String fnDataset1 = "resources/videogames/xml/dbpedia.xml";
 		String fnDataset2 = "resources/videogames/xml/giantbomb.xml";
+//		String fnDataset1 = "resources/videogames/xml/giantbomb.xml";
+//		String fnDataset2 = "resources/videogames/xml/thegamesdb.xml";
 		// path to ID tag 
 		String idPath = "/data/videogame/id";
 		
@@ -117,18 +125,18 @@ public class IDResolution
 		String fnRegression = "resources/videogames/regression.csv";
 		
 		System.out.println("Matching by titles only");
-		System.out.println("-------------------------------");
-		System.out.println("WITHOUT BLOCKING, Levenstein:");
-		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new LevensteinTitleMatcher(), true);
-		System.out.println();
-		System.out.println("WITHOUT BLOCKING, NeedlemanWunsch:");
-		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new NeedlemanWunschTitleMatcher(), true);
-		System.out.println();
-		System.out.println("WITHOUT BLOCKING, Jaccard:");
-		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new JaccardTitleMatcher(), true);
-		System.out.println();
-		System.out.println("WITHOUT BLOCKING, Cosine:");
-		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new CosineTitleMatcher(), true);
+//		System.out.println("-------------------------------");
+//		System.out.println("WITHOUT BLOCKING, Levenstein:");
+//		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new LevensteinTitleMatcher(), true);
+//		System.out.println();
+//		System.out.println("WITHOUT BLOCKING, NeedlemanWunsch:");
+//		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new NeedlemanWunschTitleMatcher(), true);
+//		System.out.println();
+//		System.out.println("WITHOUT BLOCKING, Jaccard:");
+//		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new JaccardTitleMatcher(), true);
+//		System.out.println();
+//		System.out.println("WITHOUT BLOCKING, Cosine:");
+//		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new CosineTitleMatcher(), true);
 		System.out.println("-------------------------------");
 		System.out.println("WITH BLOCKING, Levenstein:");
 		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new LevensteinTitleMatcher(), true);
@@ -138,6 +146,21 @@ public class IDResolution
 		System.out.println();
 		System.out.println("WITH BLOCKING, Jaccard:");
 		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new JaccardTitleMatcher(), true);
+		System.out.println();
+		System.out.println("WITH BLOCKING, Dice:");
+		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new DiceTitleMatcher(), true);
+		System.out.println();
+		System.out.println("WITH BLOCKING, JaroWinkler:");
+		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new JaroWinklerTitleMatcher(), true);
+		System.out.println();
+		System.out.println("WITH BLOCKING, MongeElkan:");
+		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new MongeElkanTitleMatcher(), true);
+		System.out.println();
+		System.out.println("WITH BLOCKING, SmithWatermanGotoh:");
+		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new SmithWatermanGotohTitleMatcher(), true);
+		System.out.println();
+		System.out.println("WITH BLOCKING, TFIDF:");
+		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new TFIDFTitleMatcher(), true);
 		System.out.println();
 		System.out.println("WITH BLOCKING, Cosine:");
 		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new CosineTitleMatcher(), true);
@@ -159,7 +182,7 @@ public class IDResolution
 //		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new DemoBlockingOperator(), new TitleDateMatcher(), true);
 //		System.out.println("----------------");
 		
-		runOutputResults(fnDataset1, fnDataset2, idPath, fnOutput, new BlockingByTitle(), new LevensteinTitleMatcher());
+//		runOutputResults(fnDataset1, fnDataset2, idPath, fnOutput, new BlockingByTitle(), new LevensteinTitleMatcher());
 		
 //		List<AbstractMatcher> matchers = Arrays.asList(new AbstractMatcher[]{new DemoTitleMatcher(),new DemoDateMatcher()});
 //		runWriteRegressionFile(fnDataset1, fnDataset2, idPath, fnGold, fnRegression, matchers);

@@ -19,15 +19,16 @@
 
 package uma.wdi.ir.matching;
 
-import uma.wdi.ir.similarity.NeedlemanWunschSimilarityFunction;
+import uma.wdi.ir.similarity.LevensteinSimilarityFunction;
+import uma.wdi.ir.similarity.TFIDFSimilarityFunction;
 
-public class NeedlemanWunschTitleMatcher extends SimpleMatcher
+public class TFIDFTitleMatcher extends SimpleMatcher
 {
 	/**
 	 * Example of simple matcher: compare titles
 	 */
 
-	public NeedlemanWunschTitleMatcher() {
-		super("title", new NeedlemanWunschSimilarityFunction(),0.93);
+	public TFIDFTitleMatcher() {
+		super("title", new TFIDFSimilarityFunction(),0.93);
 	}
 }

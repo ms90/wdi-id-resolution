@@ -19,15 +19,15 @@
 
 package uma.wdi.ir.matching;
 
-import uma.wdi.ir.similarity.NeedlemanWunschSimilarityFunction;
+import uma.wdi.ir.similarity.SmithWatermanGotohSimilarityFunction;
 
-public class NeedlemanWunschTitleMatcher extends SimpleMatcher
+public class SmithWatermanGotohTitleMatcher extends SimpleMatcher
 {
 	/**
 	 * Example of simple matcher: compare titles
 	 */
 
-	public NeedlemanWunschTitleMatcher() {
-		super("title", new NeedlemanWunschSimilarityFunction(),0.93);
+	public SmithWatermanGotohTitleMatcher() {
+		super("title", new SmithWatermanGotohSimilarityFunction(),0.93);
 	}
 }

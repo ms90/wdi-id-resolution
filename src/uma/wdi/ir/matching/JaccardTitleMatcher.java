@@ -28,6 +28,6 @@ public class JaccardTitleMatcher extends SimpleMatcher
 	 */
 
 	public JaccardTitleMatcher() {
-		super("title", new JaccardSimilarityFunction(),0.85);
+		super("title", new JaccardSimilarityFunction(),0.93);
 	}
 }

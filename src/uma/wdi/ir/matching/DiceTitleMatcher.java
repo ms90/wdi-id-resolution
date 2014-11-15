@@ -19,15 +19,15 @@
 
 package uma.wdi.ir.matching;
 
-import uma.wdi.ir.similarity.NeedlemanWunschSimilarityFunction;
+import uma.wdi.ir.similarity.DiceSimilarityFunction;
 
-public class NeedlemanWunschTitleMatcher extends SimpleMatcher
+public class DiceTitleMatcher extends SimpleMatcher
 {
 	/**
 	 * Example of simple matcher: compare titles
 	 */
 
-	public NeedlemanWunschTitleMatcher() {
-		super("title", new NeedlemanWunschSimilarityFunction(),0.93);
+	public DiceTitleMatcher() {
+		super("title", new DiceSimilarityFunction(),0.93);
 	}
 }

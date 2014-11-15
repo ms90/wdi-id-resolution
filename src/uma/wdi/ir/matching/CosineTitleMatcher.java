@@ -28,6 +28,6 @@ public class CosineTitleMatcher extends SimpleMatcher
 	 */
 
 	public CosineTitleMatcher() {
-		super("title", new CosineSimilarityFunction(),0.85);
+		super("title", new CosineSimilarityFunction(),0.93);
 	}
 }

@@ -12,22 +12,23 @@
  * limitations under the License.
  */
 
-/* 
- * Matches two entities, returns a score. 
- * Add here your similarity measures and define how to combine them. 
- * */
+package uma.wdi.ir.similarity;
 
-package uma.wdi.ir.matching;
+import uk.ac.shef.wit.simmetrics.similaritymetrics.SmithWatermanGotoh;
 
-import uma.wdi.ir.similarity.NeedlemanWunschSimilarityFunction;
-
-public class NeedlemanWunschTitleMatcher extends SimpleMatcher
+public class SmithWatermanGotohSimilarityFunction implements SimilarityFunction 
 {
 	/**
-	 * Example of simple matcher: compare titles
+	 * Compares two strings, uses Jaccard Similarity. 
+	 * @author Maxim
+	 *
 	 */
 
-	public NeedlemanWunschTitleMatcher() {
-		super("title", new NeedlemanWunschSimilarityFunction(),0.93);
+	@Override
+	public double compare(String s1, String s2) 
+	{
+		SmithWatermanGotoh dist = new SmithWatermanGotoh();
+		return dist.getSimilarity(s1, s2);
 	}
+	
 }

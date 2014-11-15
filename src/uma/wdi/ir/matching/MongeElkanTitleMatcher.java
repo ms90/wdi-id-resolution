@@ -19,15 +19,15 @@
 
 package uma.wdi.ir.matching;
 
-import uma.wdi.ir.similarity.NeedlemanWunschSimilarityFunction;
+import uma.wdi.ir.similarity.MongeElkanSimilarityFunction;
 
-public class NeedlemanWunschTitleMatcher extends SimpleMatcher
+public class MongeElkanTitleMatcher extends SimpleMatcher
 {
 	/**
 	 * Example of simple matcher: compare titles
 	 */
 
-	public NeedlemanWunschTitleMatcher() {
-		super("title", new NeedlemanWunschSimilarityFunction(),0.93);
+	public MongeElkanTitleMatcher() {
+		super("title", new MongeElkanSimilarityFunction(),0.93);
 	}
 }
