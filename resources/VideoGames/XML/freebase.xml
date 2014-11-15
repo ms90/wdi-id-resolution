@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<data xsi:noNamespaceSchemaLocation="C:/Sites/WebDataIntegration/target.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version="1.0" encoding="utf-8"?>
+<data xsi:nonamespaceschemalocation="c:/sites/webdataintegration/target.xsd" xmlns:xsi="http://www.w3.org/2001/xmlschema-instance">
 	<videogame>
 		<id>1</id>
-		<name>: "Moegaku"</name>
-		<description>Moegaku is a video game</description>
-		<publisher>Idea_Factory</publisher>
-		<mode>Singleplayer</mode>
+		<name>: "moegaku"</name>
+		<description>moegaku is a video game</description>
+		<publisher>idea_factory</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>1</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>2</id>
-		<name>Extreme Warfare Deluxe</name>
-		<description>Extreme Warfare Deluxe is a 2001 video game</description>
+		<name>extreme warfare deluxe</name>
+		<description>extreme warfare deluxe is a 2001 video game</description>
 		<release>2001-04-01</release>
 		<genre>
 			<id>2</id>
@@ -21,30 +21,30 @@
 	</videogame>
 	<videogame>
 		<id>3</id>
-		<name>Bats &amp; Terry</name>
-		<description>Bats &amp; Terry is a 1987 action video game</description>
+		<name>bats &amp; terry</name>
+		<description>bats &amp; terry is a 1987 action video game</description>
 		<release>1987-07-22</release>
-		<mode>Singleplayer</mode>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>3</id>
-			<name>ActionGame</name>
+			<name>actiongame</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>4</id>
-		<name>Deep Dungeon III:  Yuushi he no Tabi</name>
-		<description>Deep Dungeon III:  Yuushi he no Tabi is a 1988 role playing video game</description>
+		<name>deep dungeon iii:  yuushi he no tabi</name>
+		<description>deep dungeon iii:  yuushi he no tabi is a 1988 role playing video game</description>
 		<release>1988-05-13</release>
-		<publisher>Square Co, Ltd</publisher>
+		<publisher>square co, ltd</publisher>
 		<genre>
 			<id>4</id>
-			<name>RPVG</name>
+			<name>rpvg</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>5</id>
-		<name>Hack</name>
-		<description>Hack is a 1985 roguelike video game inspired by Rogue that introduced shops as gameplay elements and expanded available monsters, items, and spells It later became the basis for NetHack</description>
+		<name>hack</name>
+		<description>hack is a 1985 roguelike video game inspired by rogue that introduced shops as gameplay elements and expanded available monsters, items, and spells it later became the basis for nethack</description>
 		<release>1982-12-31</release>
 		<genre>
 			<id>5</id>
@@ -52,196 +52,196 @@
 	</videogame>
 	<videogame>
 		<id>6</id>
-		<name>Wasteland</name>
-		<description>Wasteland is a science fiction role-playing video game developed by Interplay Productions and first published by Electronic Arts for the Commodore 64, Apple II, and PC DOS in 1988 The game is set in a futuristic, post-apocalyptic America that was destroyed by nuclear holocaust generations before It was re-released for Microsoft Windows, OS X, and Linux in 2013 by inXile Entertainment
-Critically acclaimed and commercially successful, Wasteland was intended to be followed by two separate sequels, but Electronic Arts' Fountain of Dreams was turned into an unrelated game and Interplay's own Meantime was cancelled The game's general setting and concept, however, became the basis for Interplay's 1997 role-playing video game Fallout, which itself would extend into a successful series A sequel, Wasteland 2, was developed by inXile Entertainment and published on September 19, 2014</description>
+		<name>wasteland</name>
+		<description>wasteland is a science fiction role-playing video game developed by interplay productions and first published by electronic arts for the commodore 64, apple ii, and pc dos in 1988 the game is set in a futuristic, post-apocalyptic america that was destroyed by nuclear holocaust generations before it was re-released for microsoft windows, os x, and linux in 2013 by inxile entertainment
+critically acclaimed and commercially successful, wasteland was intended to be followed by two separate sequels, but electronic arts' fountain of dreams was turned into an unrelated game and interplay's own meantime was cancelled the game's general setting and concept, however, became the basis for interplay's 1997 role-playing video game fallout, which itself would extend into a successful series a sequel, wasteland 2, was developed by inxile entertainment and published on september 19, 2014</description>
 		<release>1988-12-31</release>
-		<developer>Interplay Entertainment CorpInterplay Entertainment Corp</developer>
-		<publisher>ElectronicArts</publisher>
-		<mode>SinglePlayer</mode>
+		<developer>interplay entertainment corpinterplay entertainment corp</developer>
+		<publisher>electronicarts</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>6</id>
-			<name>Adventure_Game</name>
+			<name>adventure_game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>7</id>
-		<name>Doom 3</name>
-		<description>Doom 3 is a science fiction survival horror first-person shooter video game developed by id Software and published by Activision Doom 3 was first released for Microsoft Windows on August 3, 2004 The game was later adapted for Linux, as well as being ported by Aspyr Media for Mac OS X Developer Vicarious Visions ported the game to the Xbox console, releasing it on April 3, 2005 British developers Splash Damage also assisted in design for the multiplayer elements of the game
-The game is a reboot of the Doom franchise, disregarding the storylines of the previous Doom video games Doom 3 is set in 2145 on Mars, where a military-industrial conglomerate has set up a scientific research facility to research into fields such as teleportation, biological research and advanced weapons design However, the teleportation experiments inadvertently open a gateway to Hell, resulting in a catastrophic invasion by demons The player, an anonymous space marine, must fight through the base and find a way to stop demons from Hell attacking Earth</description>
+		<name>doom 3</name>
+		<description>doom 3 is a science fiction survival horror first-person shooter video game developed by id software and published by activision doom 3 was first released for microsoft windows on august 3, 2004 the game was later adapted for linux, as well as being ported by aspyr media for mac os x developer vicarious visions ported the game to the xbox console, releasing it on april 3, 2005 british developers splash damage also assisted in design for the multiplayer elements of the game
+the game is a reboot of the doom franchise, disregarding the storylines of the previous doom video games doom 3 is set in 2145 on mars, where a military-industrial conglomerate has set up a scientific research facility to research into fields such as teleportation, biological research and advanced weapons design however, the teleportation experiments inadvertently open a gateway to hell, resulting in a catastrophic invasion by demons the player, an anonymous space marine, must fight through the base and find a way to stop demons from hell attacking earth</description>
 		<release>2004-08-03</release>
-		<publisher>CyberFront Corporation</publisher>
-		<mode>MultiplayerBideoGame</mode>
+		<publisher>cyberfront corporation</publisher>
+		<mode>multiplayerbideogame</mode>
 		<genre>
 			<id>7</id>
-			<name>ActionGame</name>
+			<name>actiongame</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>8</id>
-		<name>Zany Golf</name>
+		<name>zany golf</name>
 		<release>1988-12-31</release>
-		<publisher>Electronic Arts</publisher>
-		<mode>Multiplayer</mode>
+		<publisher>electronic arts</publisher>
+		<mode>multiplayer</mode>
 		<genre>
 			<id>8</id>
-			<name>GolfTournament</name>
+			<name>golftournament</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>9</id>
-		<name>Akalabeth:  World of Doom</name>
-		<description>Akalabeth:  World of Doom is a role-playing video game that had a limited release in 1979 and was then published by California Pacific Computer Company for the Apple II in 1980 Richard Garriott designed the game as a hobbyist project, which is now recognized as one of the earliest known examples of a role-playing video game and as a predecessor of the Ultima series of games that started Garriott's career</description>
+		<name>akalabeth:  world of doom</name>
+		<description>akalabeth:  world of doom is a role-playing video game that had a limited release in 1979 and was then published by california pacific computer company for the apple ii in 1980 richard garriott designed the game as a hobbyist project, which is now recognized as one of the earliest known examples of a role-playing video game and as a predecessor of the ultima series of games that started garriott's career</description>
 		<release>1979-12-31</release>
-		<developer>Richard GarriottRichard Garriott</developer>
-		<publisher>California Pacific Computer Company</publisher>
-		<mode>SinglePlayer</mode>
+		<developer>richard garriottrichard garriott</developer>
+		<publisher>california pacific computer company</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>9</id>
-			<name>AdventureGame</name>
+			<name>adventuregame</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>10</id>
-		<name>Dominions 3:  The Awakening</name>
-		<description>Dominions 3:  The Awakening is a fantasy turn-based strategy game created by Illwinter and published in 2006 by Shrapnel Games It is the third game in the Dominions series, preceded by Dominio Priests, Prophets and Pretenders and Dominions II:  The Ascension Wars Illwinter's publishing contract with Shrapnel Games expired in November 2012 and Dominions 3 was republished on Desura in late December 2012 and soon after on GamersGate Dominions 3 is currently a Greenlight candidate on Steam
-The game combines a simple presentation with an extremely wide array of strategic options, including over 1500 units, 600 spells and 300 magic items Turns are resolved simultaneously, with players planning battles rather than directly controlling them
-The game includes scenarios and randomized play, but does not include a campaign Dominions 3 is mainly designed for multiplayer, including PBEM, hotseat and TCP/IP AI opponents are available for single-player</description>
+		<name>dominions 3:  the awakening</name>
+		<description>dominions 3:  the awakening is a fantasy turn-based strategy game created by illwinter and published in 2006 by shrapnel games it is the third game in the dominions series, preceded by dominio priests, prophets and pretenders and dominions ii:  the ascension wars illwinter's publishing contract with shrapnel games expired in november 2012 and dominions 3 was republished on desura in late december 2012 and soon after on gamersgate dominions 3 is currently a greenlight candidate on steam
+the game combines a simple presentation with an extremely wide array of strategic options, including over 1500 units, 600 spells and 300 magic items turns are resolved simultaneously, with players planning battles rather than directly controlling them
+the game includes scenarios and randomized play, but does not include a campaign dominions 3 is mainly designed for multiplayer, including pbem, hotseat and tcp/ip ai opponents are available for single-player</description>
 		<release>2006-09-29</release>
-		<developer>Illwinter Game DesignIllwinter Game Design</developer>
-		<publisher>Shrapnel Games</publisher>
-		<mode>Multiplayer</mode>
+		<developer>illwinter game designillwinter game design</developer>
+		<publisher>shrapnel games</publisher>
+		<mode>multiplayer</mode>
 		<genre>
 			<id>10</id>
-			<name>RPG</name>
+			<name>rpg</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>11</id>
-		<name>World Series of Poker:  Tournament of Champions</name>
-		<description>World Series of Poker:  Tournament of Champions is a video game based on the popular gambling tournament World Series of Poker It's available for multiple systems:  Xbox 360, PlayStation 2, Wii, PlayStation Portable and PC It is the successor of the original World Series of Poker video game</description>
+		<name>world series of poker:  tournament of champions</name>
+		<description>world series of poker:  tournament of champions is a video game based on the popular gambling tournament world series of poker it's available for multiple systems:  xbox 360, playstation 2, wii, playstation portable and pc it is the successor of the original world series of poker video game</description>
 		<release>2006-08-31</release>
-		<developer>Left Field ProductionsLeft Field Productions</developer>
-		<publisher>Activision</publisher>
-		<mode>Multiplayer</mode>
+		<developer>left field productionsleft field productions</developer>
+		<publisher>activision</publisher>
+		<mode>multiplayer</mode>
 		<genre>
 			<id>11</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>12</id>
-		<name>Might and Magic Mobile</name>
-		<description>Might and Magic Mobile is a role-playing video game developed and released in 2004 by Gameloft for mobile phones</description>
+		<name>might and magic mobile</name>
+		<description>might and magic mobile is a role-playing video game developed and released in 2004 by gameloft for mobile phones</description>
 		<release>2004-10-19</release>
-		<developer>GameloftGameloft SA</developer>
-		<publisher>Gameloft</publisher>
-		<mode>Singleplayer</mode>
+		<developer>gameloftgameloft sa</developer>
+		<publisher>gameloft</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>12</id>
-			<name>ActionGame</name>
+			<name>actiongame</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>13</id>
-		<name>Professor Layton and the Curious Village</name>
-		<description>Professor Layton and the Curious Village is a puzzle adventure video game for the Nintendo DS system It was developed by Level-5, and published by Level-5 within Japan and Nintendo internationally It was released in Japan during 2007, and in PAL regions and North America a year later in 2008 Curious Village is the first title in the Professor Layton series, directly followed by Professor Layton and the Diabolical Box
-The game centers around Professor Hershel Layton, and his self-styled apprentice, Luke Triton, investigating the fictional village of St Mystere about an artifact known as the Golden Apple, an heirloom that the late Baron had left as a test to determine who would receive his fortune after his death The residents of St Mystere particularly enjoy brain teasers, and will often ask the player to help solve them by using the system's touchscreen to submit answers, in exchange for their cooperation in the search
-Professor Layton and the Curious Village was met with generally positive reviews, praising both its approach to combining the adventure and puzzle genres, as well as for its presentation and animated cutscenes</description>
+		<name>professor layton and the curious village</name>
+		<description>professor layton and the curious village is a puzzle adventure video game for the nintendo ds system it was developed by level-5, and published by level-5 within japan and nintendo internationally it was released in japan during 2007, and in pal regions and north america a year later in 2008 curious village is the first title in the professor layton series, directly followed by professor layton and the diabolical box
+the game centers around professor hershel layton, and his self-styled apprentice, luke triton, investigating the fictional village of st mystere about an artifact known as the golden apple, an heirloom that the late baron had left as a test to determine who would receive his fortune after his death the residents of st mystere particularly enjoy brain teasers, and will often ask the player to help solve them by using the system's touchscreen to submit answers, in exchange for their cooperation in the search
+professor layton and the curious village was met with generally positive reviews, praising both its approach to combining the adventure and puzzle genres, as well as for its presentation and animated cutscenes</description>
 		<release>2007-02-15</release>
-		<developer>Level-5Level-5</developer>
-		<publisher>Nintendo of Europe</publisher>
-		<mode>Singleplayer</mode>
+		<developer>level-5level-5</developer>
+		<publisher>nintendo of europe</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>13</id>
-			<name>Puzzle game</name>
+			<name>puzzle game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>14</id>
-		<name>Gyroscope</name>
-		<description>Gyroscope is an action video game published by Melbourne House in 1985 for a number of home computers It is based on the Atari arcade game Marble Madness</description>
+		<name>gyroscope</name>
+		<description>gyroscope is an action video game published by melbourne house in 1985 for a number of home computers it is based on the atari arcade game marble madness</description>
 		<release>1985-12-31</release>
-		<publisher>Krome Studios Melbourne</publisher>
-		<mode>Singleplayer</mode>
+		<publisher>krome studios melbourne</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>14</id>
-			<name>Arcade game</name>
+			<name>arcade game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>15</id>
-		<name>Harry Potter and the Order of the Phoenix</name>
-		<description>Harry Potter and the Order of the Phoenix is a video game that is based on the fifth installment of the popular Harry Potter series by J K Rowling and the film of the same name, for Microsoft Windows, PlayStation 2, PlayStation 3, Xbox 360, PSP, Nintendo DS, Wii, Game Boy Advance and Mac OS X It was released in 2007 on 25 June in the US, 28 June in Australia and 29 June in the UK and Europe for PlayStation 3, PSP, PlayStation 2, Windows and the 3rd of July for most other platforms
-The theme of the game is to explore Hogwarts and follow the story from the book and movie EA encouraged fan participation in the development of this game, and worked with a fan council The game returns to the sandbox style of the first three games rather than the action-oriented Goblet of Fire Similar to any sandbox, Hogwarts is fully explorable most of the time that provide rewards to the player, which can be activated by completing side missions Furthermore, there are battles between groups of students, as shown in the game trailer This is the last Harry Potter game to be released on the Game Boy Advance</description>
+		<name>harry potter and the order of the phoenix</name>
+		<description>harry potter and the order of the phoenix is a video game that is based on the fifth installment of the popular harry potter series by j k rowling and the film of the same name, for microsoft windows, playstation 2, playstation 3, xbox 360, psp, nintendo ds, wii, game boy advance and mac os x it was released in 2007 on 25 june in the us, 28 june in australia and 29 june in the uk and europe for playstation 3, psp, playstation 2, windows and the 3rd of july for most other platforms
+the theme of the game is to explore hogwarts and follow the story from the book and movie ea encouraged fan participation in the development of this game, and worked with a fan council the game returns to the sandbox style of the first three games rather than the action-oriented goblet of fire similar to any sandbox, hogwarts is fully explorable most of the time that provide rewards to the player, which can be activated by completing side missions furthermore, there are battles between groups of students, as shown in the game trailer this is the last harry potter game to be released on the game boy advance</description>
 		<release>2007-06-25</release>
-		<platform>PlayStation 3Wii</platform>
-		<publisher>Electronic Arts</publisher>
-		<mode>Singleplayer</mode>
+		<platform>playstation 3wii</platform>
+		<publisher>electronic arts</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>15</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>16</id>
-		<name>Shining Force 3 Beta</name>
+		<name>shining force 3 beta</name>
 		<release>1997-12-31</release>
-		<publisher>Sega</publisher>
+		<publisher>sega</publisher>
 		<genre>
 			<id>16</id>
-			<name>Tactical role-playing game</name>
+			<name>tactical role-playing game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>17</id>
-		<name>London Racer World Challenge</name>
+		<name>london racer world challenge</name>
 		<genre>
 			<id>17</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>18</id>
-		<name>Midwinter</name>
-		<description>Midwinter is a post-apocalyptic first-person action role-playing game with strategy and survival elements for the Atari ST, Amiga and PC It was designed by Mike Singleton and was released in 1989 by Microplay Software The game was critically acclaimed and commercially successful enough to get a sequel titled Flames of Freedom in 1991 A remake is currently in development</description>
+		<name>midwinter</name>
+		<description>midwinter is a post-apocalyptic first-person action role-playing game with strategy and survival elements for the atari st, amiga and pc it was designed by mike singleton and was released in 1989 by microplay software the game was critically acclaimed and commercially successful enough to get a sequel titled flames of freedom in 1991 a remake is currently in development</description>
 		<release>1989-12-31</release>
-		<platform>MS-DOSAtari ST</platform>
-		<publisher>MicroProse</publisher>
-		<mode>Single-player video game</mode>
+		<platform>ms-dosatari st</platform>
+		<publisher>microprose</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>18</id>
-			<name>Computer role-playing game</name>
+			<name>computer role-playing game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>19</id>
-		<name>Godzilla:  Unleashed</name>
-		<description>Godzilla:  Unleashed, abbreviated as GU, is a 3D fighting video game based on the Godzilla film franchise for the Wii and PlayStation 2, developed by Pipeworks and published by Atari The PS2 and Nintendo DS versions were released on November 20 and the Wii version on December 5, 2007 in North America, and all versions on February 22, 2008 in Europe
-The game is set during a series of unnatural disasters across Earth due to unexplained appearances of large crystals, where the Vortaak alien race are invading once again The game features over 20 Kaiju and Mechas from all three Godzilla eras as well as two newly created Toho approved creations Krystalak and Obsidius It is a sequel to both Godzilla:  Destroy All Monsters Melee and Godzilla:  Save the Earth</description>
-		<developer>Santa Cruz GamesPipeworks Software</developer>
-		<publisher>Atari</publisher>
-		<mode>Multiplayer</mode>
+		<name>godzilla:  unleashed</name>
+		<description>godzilla:  unleashed, abbreviated as gu, is a 3d fighting video game based on the godzilla film franchise for the wii and playstation 2, developed by pipeworks and published by atari the ps2 and nintendo ds versions were released on november 20 and the wii version on december 5, 2007 in north america, and all versions on february 22, 2008 in europe
+the game is set during a series of unnatural disasters across earth due to unexplained appearances of large crystals, where the vortaak alien race are invading once again the game features over 20 kaiju and mechas from all three godzilla eras as well as two newly created toho approved creations krystalak and obsidius it is a sequel to both godzilla:  destroy all monsters melee and godzilla:  save the earth</description>
+		<developer>santa cruz gamespipeworks software</developer>
+		<publisher>atari</publisher>
+		<mode>multiplayer</mode>
 		<genre>
 			<id>19</id>
-			<name>Action</name>
+			<name>action</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>20</id>
-		<name>Routes</name>
-		<description>Routes is an adult game originally produced by Leaf for the PC It was the fourth volume in the Leaf visual novel Series, and was released in 2003, six years after the third, To Heart The CD-ROM version was released on 28 February 2003, whereas the DVD version, which contained additional CGs, was released on 28 November 2003
-A remake of the game was released by Aquaplus on 25 January 2007, for the PlayStation 2 and the PlayStation Portable The remake for PlayStation 2 was entitled RoutesPE while the PlayStation Portable port of the remake was named Routes PORTABLE in Japan The new version had voice acting and was no longer rated 18+
-Yuasa Satsuki is featured as a partner character in Aquapazza:  Aquaplus Dream Match, a fighting game developed by Aquaplus with characters from various Leaf games</description>
+		<name>routes</name>
+		<description>routes is an adult game originally produced by leaf for the pc it was the fourth volume in the leaf visual novel series, and was released in 2003, six years after the third, to heart the cd-rom version was released on 28 february 2003, whereas the dvd version, which contained additional cgs, was released on 28 november 2003
+a remake of the game was released by aquaplus on 25 january 2007, for the playstation 2 and the playstation portable the remake for playstation 2 was entitled routespe while the playstation portable port of the remake was named routes portable in japan the new version had voice acting and was no longer rated 18+
+yuasa satsuki is featured as a partner character in aquapazza:  aquaplus dream match, a fighting game developed by aquaplus with characters from various leaf games</description>
 		<release>2003-02-28</release>
-		<publisher>Aquaplus</publisher>
+		<publisher>aquaplus</publisher>
 		<genre>
 			<id>20</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>21</id>
-		<name>Derby Time</name>
+		<name>derby time</name>
 		<release>2005-04-21</release>
 		<genre>
 			<id>21</id>
@@ -249,598 +249,598 @@ Yuasa Satsuki is featured as a partner character in Aquapazza:  Aquaplus Dream M
 	</videogame>
 	<videogame>
 		<id>22</id>
-		<name>Worms Armageddon</name>
+		<name>worms armageddon</name>
 		<release>1999-12-31</release>
-		<developer>Infogrames Entertainment SATeam17 Software</developer>
-		<publisher>Team17 Software</publisher>
-		<mode>Singleplayer</mode>
+		<developer>infogrames entertainment sateam17 software</developer>
+		<publisher>team17 software</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>22</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>23</id>
-		<name>Arc the Lad:  Twilight of the Spirits</name>
-		<description>Arc the Lad:  Twilight of the Spirits is the first of two Arc the Lad games for the PlayStation 2, the second being Arc the Lad:  End of Darkness The game was re-released in Japan as a premium box set It came out in North America under the title Arc the Lad:  Twilight of the Spirits, but when released in Europe the title was renamed Arc:  Twilight of the Spirits The music for the game was composed by Koji Sakurai, Takayuki Hattori, Yuko Fukushima, Masahiro Andoh, and Takashi Harada</description>
+		<name>arc the lad:  twilight of the spirits</name>
+		<description>arc the lad:  twilight of the spirits is the first of two arc the lad games for the playstation 2, the second being arc the lad:  end of darkness the game was re-released in japan as a premium box set it came out in north america under the title arc the lad:  twilight of the spirits, but when released in europe the title was renamed arc:  twilight of the spirits the music for the game was composed by koji sakurai, takayuki hattori, yuko fukushima, masahiro andoh, and takashi harada</description>
 		<release>2003-03-20</release>
-		<publisher>Sony Computer Entertainment</publisher>
-		<mode>Singleplayer</mode>
+		<publisher>sony computer entertainment</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>23</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>24</id>
-		<name>Rapid Racer</name>
-		<description>Rapid Racer is a racing video game released exclusively for the PlayStation In the game, the player takes control of a motorboat and races around six different courses:  a Miami Beach-style track, a course running through Utah's mountains, a track set in the Arctic, a course set in Canada's mountains, a stream running through an African village, and a lava field Eventually, all six tracks can be raced backwards, mirrored, as well as set at night time
-By winning championships and completing bonus rounds, players can unlock Them which they can use to either upgrade their motorboat or Unlock a higher-powered one
-The game's soundtrack was composed by Apollo 440 in the UK and by Loudmouth elsewhere The game's main theme 'Carrera Rapida' by Apollo 440 was released as a single and on their 1997 album Electro Glide in Blue</description>
+		<name>rapid racer</name>
+		<description>rapid racer is a racing video game released exclusively for the playstation in the game, the player takes control of a motorboat and races around six different courses:  a miami beach-style track, a course running through utah's mountains, a track set in the arctic, a course set in canada's mountains, a stream running through an african village, and a lava field eventually, all six tracks can be raced backwards, mirrored, as well as set at night time
+by winning championships and completing bonus rounds, players can unlock them which they can use to either upgrade their motorboat or unlock a higher-powered one
+the game's soundtrack was composed by apollo 440 in the uk and by loudmouth elsewhere the game's main theme 'carrera rapida' by apollo 440 was released as a single and on their 1997 album electro glide in blue</description>
 		<release>1998-06-30</release>
-		<developer>SCE London StudioSCE London Studio</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<mode>Multiplayer</mode>
+		<developer>sce london studiosce london studio</developer>
+		<publisher>sony computer entertainment</publisher>
+		<mode>multiplayer</mode>
 		<genre>
 			<id>24</id>
-			<name>Racing video game</name>
+			<name>racing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>25</id>
-		<name>Dirt Track Racing 2</name>
-		<description>Dirt Track Racing 2 is a video game by the now defunct Ratbag Games It is the third and final game in the dirt track racing series by Ratbag, which includes Dirt Track Racing, Dirt Track Racing Sprint Cars, and Dirt Track Racing 2</description>
+		<name>dirt track racing 2</name>
+		<description>dirt track racing 2 is a video game by the now defunct ratbag games it is the third and final game in the dirt track racing series by ratbag, which includes dirt track racing, dirt track racing sprint cars, and dirt track racing 2</description>
 		<release>2002-09-01</release>
-		<developer>Ratbag GamesRatbag Games</developer>
-		<mode>Singleplayer</mode>
+		<developer>ratbag gamesratbag games</developer>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>25</id>
-			<name>Racing video game</name>
+			<name>racing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>26</id>
-		<name>Everblue 2</name>
-		<description>Everblue 2 is an adventure game based around scuba diving It is the sequel to the game Everblue Arika, the developers of both games, followed it with the spiritual sequel Endless Ocean, for the Wii</description>
+		<name>everblue 2</name>
+		<description>everblue 2 is an adventure game based around scuba diving it is the sequel to the game everblue arika, the developers of both games, followed it with the spiritual sequel endless ocean, for the wii</description>
 		<release>2003-02-26</release>
-		<developer>ArikaArika</developer>
-		<publisher>Capcom</publisher>
-		<mode>Single-player video game</mode>
+		<developer>arikaarika</developer>
+		<publisher>capcom</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>26</id>
-			<name>Role-playing video game</name>
+			<name>role-playing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>27</id>
-		<name>Bounty Hounds</name>
-		<description>Bounty Hounds is a third-person shooter-RPG published by Namco and developed by XPEC Entertainment for the PlayStation Portable system It was released September 12, 2006 in North America and September 21, 2006 in Japan
-The plot revolves around a group of intergalactic mercenaries, known as the Bounty Hounds, on a mission to eradicate the indigenous lifeforms of alien planets, so the human race may colonize them
-This game is based in the UGSF universe along with several other games by Namco</description>
+		<name>bounty hounds</name>
+		<description>bounty hounds is a third-person shooter-rpg published by namco and developed by xpec entertainment for the playstation portable system it was released september 12, 2006 in north america and september 21, 2006 in japan
+the plot revolves around a group of intergalactic mercenaries, known as the bounty hounds, on a mission to eradicate the indigenous lifeforms of alien planets, so the human race may colonize them
+this game is based in the ugsf universe along with several other games by namco</description>
 		<release>2006-09-12</release>
-		<developer>XPEC EntertainmentXPEC Entertainment</developer>
-		<publisher>Namco</publisher>
-		<mode>Single-player video game</mode>
+		<developer>xpec entertainmentxpec entertainment</developer>
+		<publisher>namco</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>27</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>28</id>
-		<name>Zombie Smashers X3:  Ninjastarmageddon!</name>
+		<name>zombie smashers x3:  ninjastarmageddon!</name>
 		<release>2007-12-31</release>
-		<publisher>Ska Studios</publisher>
-		<mode>Singleplayer</mode>
+		<publisher>ska studios</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>28</id>
-			<name>Sim game</name>
+			<name>sim game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>29</id>
-		<name>Sokker Manager</name>
-		<description>Sokker Manager is a realistic, browser-based online football manager game with an exclusive 3D match engine and a 2D match engine The game, developed in Poland, began in early 2004 and currently has 98 FIFA countries which users can register to, and as of February 2012, there were over 52,000 registered users world-wide Each month, Sokker is voted one of the best sports game on the internet, out of the top 50 sports game
-The game is free to play, however there is an optional 'Plus' service which will give users access to additional in-game tools that can help them progress as a manager As a manager, you are in complete control of a team, where you must select players and use strategic tactics in order to defeat the opponent</description>
+		<name>sokker manager</name>
+		<description>sokker manager is a realistic, browser-based online football manager game with an exclusive 3d match engine and a 2d match engine the game, developed in poland, began in early 2004 and currently has 98 fifa countries which users can register to, and as of february 2012, there were over 52,000 registered users world-wide each month, sokker is voted one of the best sports game on the internet, out of the top 50 sports game
+the game is free to play, however there is an optional 'plus' service which will give users access to additional in-game tools that can help them progress as a manager as a manager, you are in complete control of a team, where you must select players and use strategic tactics in order to defeat the opponent</description>
 		<genre>
 			<id>29</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>30</id>
-		<name>Horace and the Spiders</name>
+		<name>horace and the spiders</name>
 		<release>1983-12-31</release>
-		<publisher>Krome Studios Melbourne</publisher>
+		<publisher>krome studios melbourne</publisher>
 		<genre>
 			<id>30</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>31</id>
-		<description>Rendering Ranger is a 1995 side scrolling action video game developed by Rainbow Arts and published by Virgin Interactive for the Super Famicom The game was released exclusively in Japan on November 17, 1995</description>
+		<description>rendering ranger is a 1995 side scrolling action video game developed by rainbow arts and published by virgin interactive for the super famicom the game was released exclusively in japan on november 17, 1995</description>
 		<release>1995-11-17</release>
-		<developer>Rainbow ArtsRainbow Arts</developer>
-		<publisher>Virgin Games</publisher>
-		<mode>Singleplayer</mode>
+		<developer>rainbow artsrainbow arts</developer>
+		<publisher>virgin games</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>31</id>
-			<name>Shooter game</name>
+			<name>shooter game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>32</id>
-		<name>Kizuato</name>
-		<description>Kizuato is a Japanese visual novel released on July 26, 1996 by Leaf</description>
+		<name>kizuato</name>
+		<description>kizuato is a japanese visual novel released on july 26, 1996 by leaf</description>
 		<release>1996-07-26</release>
-		<publisher>Aquaplus</publisher>
-		<mode>Singleplayer</mode>
+		<publisher>aquaplus</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>32</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>33</id>
-		<name>Tag Team Match:  MUSCLE</name>
-		<description>Tag Team Match:  MUSCLE is based on characters from Yudetamago's manga and anime series Kinnikuman
-It has eight playable characters, each with his own special move The game was followed by a 1987 Japan-only sequel for the Famicom Disk System titled, Kinnikuman:  Kinniku-sei datsusen</description>
+		<name>tag team match:  muscle</name>
+		<description>tag team match:  muscle is based on characters from yudetamago's manga and anime series kinnikuman
+it has eight playable characters, each with his own special move the game was followed by a 1987 japan-only sequel for the famicom disk system titled, kinnikuman:  kinniku-sei datsusen</description>
 		<release>1985-11-08</release>
-		<developer>TOSETOSE</developer>
-		<publisher>Bandai</publisher>
-		<mode>Multiplayer</mode>
+		<developer>tosetose</developer>
+		<publisher>bandai</publisher>
+		<mode>multiplayer</mode>
 		<genre>
 			<id>33</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>34</id>
-		<name>Night Driver</name>
-		<description>Night Driver is an arcade game developed by Ted Michon and licensed by Atari Inc for release in the United States in October, 1976 Originally licensed by Atari from German firm Micronetics whom Ted Michon had sold the game to and had released the game in 1977 as Night Racer, Ted's version was in turn inspired by the earlier discrete coin-op burgring 1 It is considered one of the earliest first-person racing video games, and is commonly believed to be one of the first published games to display real-time first-person graphics</description>
+		<name>night driver</name>
+		<description>night driver is an arcade game developed by ted michon and licensed by atari inc for release in the united states in october, 1976 originally licensed by atari from german firm micronetics whom ted michon had sold the game to and had released the game in 1977 as night racer, ted's version was in turn inspired by the earlier discrete coin-op burgring 1 it is considered one of the earliest first-person racing video games, and is commonly believed to be one of the first published games to display real-time first-person graphics</description>
 		<release>1976-10-30</release>
-		<publisher>Atari, Inc</publisher>
-		<mode>Singleplayer</mode>
+		<publisher>atari, inc</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>34</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>35</id>
-		<name>Under a Killing Moon</name>
-		<description>Under a Killing Moon is the third installment in the Tex Murphy series of graphic adventure games produced by Access Software In it, the detective Tex Murphy finds himself unwittingly involved in the affairs of a dangerous cult</description>
+		<name>under a killing moon</name>
+		<description>under a killing moon is the third installment in the tex murphy series of graphic adventure games produced by access software in it, the detective tex murphy finds himself unwittingly involved in the affairs of a dangerous cult</description>
 		<release>1994-10-31</release>
-		<publisher>US Gold</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>us gold</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>35</id>
-			<name>Puzzle game</name>
+			<name>puzzle game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>36</id>
-		<name>Sentient</name>
-		<description>Sentient is a first-person adventure developed by Psygnosis and released on the PlayStation in 1997 It was also released for the PC the same year</description>
+		<name>sentient</name>
+		<description>sentient is a first-person adventure developed by psygnosis and released on the playstation in 1997 it was also released for the pc the same year</description>
 		<release>1997-03-31</release>
-		<publisher>Psygnosis Limited</publisher>
-		<mode>Singleplayer</mode>
+		<publisher>psygnosis limited</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>36</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>37</id>
-		<name>Napoleon</name>
-		<description>Napoleon is a real-time strategy video game for the Game Boy Advance developed by Genki and published by Nintendo The game was a launch title for the handheld system in Japan The game was also published in France under the title L'Aigle de Guerre The Japanese version of the game was compatible with the Mobile Adapter GB until December 14, 2002
-In the game's Story Mode, players play Napoleon Bonaparte who leads the revolutionary army into battle against the British Set in the late 18th century, Napoleon's story is told in Fire Emblem fashion via strategic maps and character dialogue However, the game takes many liberties with historical accuracy, such as Napoleon fighting man-eating ogres and abominable snowmen The objectives for the missions vary slightly, but the basic idea is to send out units, defeat the enemy and take over the opponent's stronghold</description>
+		<name>napoleon</name>
+		<description>napoleon is a real-time strategy video game for the game boy advance developed by genki and published by nintendo the game was a launch title for the handheld system in japan the game was also published in france under the title l'aigle de guerre the japanese version of the game was compatible with the mobile adapter gb until december 14, 2002
+in the game's story mode, players play napoleon bonaparte who leads the revolutionary army into battle against the british set in the late 18th century, napoleon's story is told in fire emblem fashion via strategic maps and character dialogue however, the game takes many liberties with historical accuracy, such as napoleon fighting man-eating ogres and abominable snowmen the objectives for the missions vary slightly, but the basic idea is to send out units, defeat the enemy and take over the opponent's stronghold</description>
 		<release>2001-03-21</release>
-		<developer>Intelligent SystemsGenki</developer>
-		<publisher>Nintendo</publisher>
-		<mode>Multiplayer</mode>
+		<developer>intelligent systemsgenki</developer>
+		<publisher>nintendo</publisher>
+		<mode>multiplayer</mode>
 		<genre>
 			<id>37</id>
-			<name>Real-time strategy</name>
+			<name>real-time strategy</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>38</id>
-		<name>Assassin's Creed:  Altar's Chronicles</name>
-		<description>Assassin's Creed:  Altar's Chronicles is a video game released for the Nintendo DS, Android, iOS, webOS, Symbian, Java ME and Windows Phone It is a prequel to the 2007 video game Assassin's Creed, developed by Gameloft and published by Ubisoft It was released in the United States on February 5, 2008 It features two new cities, Tyre and Aleppo and the three original cities, Jerusalem, Acre, and Damascus but does not include Masyaf Unlike the original Assassin's Creed, the game is not told through the perspective of Desmond Miles, but rather the perspective of  Ibn-La'Ahad, although the menu screens do take place in the Animushe iOS version was removed from the App Store in 2013 and is no longer available</description>
+		<name>assassin's creed:  altar's chronicles</name>
+		<description>assassin's creed:  altar's chronicles is a video game released for the nintendo ds, android, ios, webos, symbian, java me and windows phone it is a prequel to the 2007 video game assassin's creed, developed by gameloft and published by ubisoft it was released in the united states on february 5, 2008 it features two new cities, tyre and aleppo and the three original cities, jerusalem, acre, and damascus but does not include masyaf unlike the original assassin's creed, the game is not told through the perspective of desmond miles, but rather the perspective of  ibn-la'ahad, although the menu screens do take place in the animushe ios version was removed from the app store in 2013 and is no longer available</description>
 		<release>2008-02-05</release>
-		<developer>Gameloft SAGameloft</developer>
-		<publisher>Ubisoft</publisher>
-		<mode>Singleplayer</mode>
+		<developer>gameloft sagameloft</developer>
+		<publisher>ubisoft</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>38</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>39</id>
-		<name>ATV Quad Power Racing</name>
-		<description>ATV Quad Power Racing is an all-terrain vehicle racing video game released in 2000 for the PlayStation and in 2002 for the Game Boy Advance There are two sequels released:  ATV Quad Power Racing 2 and ATV:  Quad Frenzy</description>
+		<name>atv quad power racing</name>
+		<description>atv quad power racing is an all-terrain vehicle racing video game released in 2000 for the playstation and in 2002 for the game boy advance there are two sequels released:  atv quad power racing 2 and atv:  quad frenzy</description>
 		<release>2000-08-24</release>
-		<developer>Tantalus MediaClimax Group</developer>
-		<publisher>Acclaim</publisher>
-		<mode>Singleplayer</mode>
+		<developer>tantalus mediaclimax group</developer>
+		<publisher>acclaim</publisher>
+		<mode>singleplayer</mode>
 		<genre>
 			<id>39</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>40</id>
-		<name>Frogger's Adventures:  Temple of the Frog</name>
-		<description>Frogger's Adventures:  Temple of the Frog is a video game released in North America in 2001 for the Game Boy Advance In this game, Frogger searches five worlds for four sacred elements needed to rescue his friends and save his swamp Lumpy, one of his friends, or someone else, will talk to him before every level to give him information He must face 15 levels and five bosses, including his final showdown with the evil Mr D to recover the elements and save his swamp</description>
+		<name>frogger's adventures:  temple of the frog</name>
+		<description>frogger's adventures:  temple of the frog is a video game released in north america in 2001 for the game boy advance in this game, frogger searches five worlds for four sacred elements needed to rescue his friends and save his swamp lumpy, one of his friends, or someone else, will talk to him before every level to give him information he must face 15 levels and five bosses, including his final showdown with the evil mr d to recover the elements and save his swamp</description>
 		<genre>
 			<id>40</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>41</id>
-		<name>Dead Man's Hand</name>
-		<description>Dead Man's Hand is a 2004 first-person shooter video game set in the American Old West developed by Human Head Studios</description>
+		<name>dead man's hand</name>
+		<description>dead man's hand is a 2004 first-person shooter video game set in the american old west developed by human head studios</description>
 		<release>2004-03-02</release>
-		<developer>Human Head StudiosHuman Head Studios</developer>
-		<publisher>ATARI INC</publisher>
-		<mode>Multiplayer video game</mode>
+		<developer>human head studioshuman head studios</developer>
+		<publisher>atari inc</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>41</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>42</id>
-		<name>Blue Hawk</name>
-		<description>Blue Hawk is a 1993 side-scrolling shooter arcade game released by Dooyoong The game was also licensed to NTC</description>
+		<name>blue hawk</name>
+		<description>blue hawk is a 1993 side-scrolling shooter arcade game released by dooyoong the game was also licensed to ntc</description>
 		<release>1993-12-31</release>
-		<mode>Single-player video game</mode>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>42</id>
-			<name>Shoot 'em up</name>
+			<name>shoot 'em up</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>43</id>
-		<name>Rampage</name>
-		<description>Rampage is a 1986 arcade game by Bally Midway Players take control of gigantic monsters trying to survive against onslaughts of military forces Each round is completed when a particular city is completely reduced to rubble</description>
+		<name>rampage</name>
+		<description>rampage is a 1986 arcade game by bally midway players take control of gigantic monsters trying to survive against onslaughts of military forces each round is completed when a particular city is completely reduced to rubble</description>
 		<release>1986-12-31</release>
-		<publisher>Activision Blizzard</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>activision blizzard</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>43</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>44</id>
-		<name>Brave Shot</name>
-		<description>Brave Shot is a scrolling shooter mobile phone game developed and published by Square Enix on December 10, 2003 It was released on the Verizon Wireless network in North America exclusively The title was Square Enix's first foray into the North American mobile gaming market, and it was followed by a run and gun sequel, Brave Shot 2, in September 2005</description>
-		<developer>Square EnixSquare Enix</developer>
-		<publisher>Square Enix</publisher>
-		<mode>Single-player video game</mode>
+		<name>brave shot</name>
+		<description>brave shot is a scrolling shooter mobile phone game developed and published by square enix on december 10, 2003 it was released on the verizon wireless network in north america exclusively the title was square enix's first foray into the north american mobile gaming market, and it was followed by a run and gun sequel, brave shot 2, in september 2005</description>
+		<developer>square enixsquare enix</developer>
+		<publisher>square enix</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>44</id>
-			<name>Shoot 'em up</name>
+			<name>shoot 'em up</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>45</id>
-		<name>Demon Attack</name>
-		<description>Demon Attack is a video game published by Imagic for several home console systems, including the Atari 2600, Intellivision,, Atari 8-bit, Commodore VIC-20, Commodore 64, PC, TRS-80 and TRS-80 Color Computer There was also a port to the TI-99/4A titled Super Demon Attack Demon Attack was programmed by Rob Fulop</description>
+		<name>demon attack</name>
+		<description>demon attack is a video game published by imagic for several home console systems, including the atari 2600, intellivision,, atari 8-bit, commodore vic-20, commodore 64, pc, trs-80 and trs-80 color computer there was also a port to the ti-99/4a titled super demon attack demon attack was programmed by rob fulop</description>
 		<release>1982-12-31</release>
-		<developer>ImagicImagic</developer>
-		<publisher>Imagic</publisher>
-		<mode>Single-player video game</mode>
+		<developer>imagicimagic</developer>
+		<publisher>imagic</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>45</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>46</id>
-		<name>Zaxxon's Motherbase 2000</name>
-		<description>Zaxxon's Motherbase 2000 is a shoot 'em up released in 1995 for the Sega 32X It is the only Zaxxon game to use 3D graphics, though still uses an isometric perspective as seen in previous games in the series, and relies on 2D graphics for the backgrounds and scenery</description>
+		<name>zaxxon's motherbase 2000</name>
+		<description>zaxxon's motherbase 2000 is a shoot 'em up released in 1995 for the sega 32x it is the only zaxxon game to use 3d graphics, though still uses an isometric perspective as seen in previous games in the series, and relies on 2d graphics for the backgrounds and scenery</description>
 		<release>1995-07-14</release>
-		<publisher>Sega</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>sega</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>46</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>47</id>
-		<name>Memories Off</name>
-		<description>Memories Off is a Japanese visual novel developed by KID originally released in Japan on September 30, 1999 for the PlayStation, and was later released for the PC, Dreamcast, PlayStation 2, and the PlayStation Portable Subsequent versions incorporated new content not found in the original version, such as a second part of the story, Memories Off:  Pure, originally released as a separate game for the Neo Geo Pocket Color on April 27, 2000 The gameplay in Memories Off follows a linear plot line, which offers pre-determined scenarios and courses of interaction, and focuses on the appeal of the six female main characters
-Memories Off has made several transitions to other media A manga anthology was published in August 2000 by Enterbrain It was followed by an original video animation series produced by E&amp;G Films released on three DVDs and VHSs between November 11, 2001 and March 8, 2002 Three novels and a drama CD were also produced</description>
+		<name>memories off</name>
+		<description>memories off is a japanese visual novel developed by kid originally released in japan on september 30, 1999 for the playstation, and was later released for the pc, dreamcast, playstation 2, and the playstation portable subsequent versions incorporated new content not found in the original version, such as a second part of the story, memories off:  pure, originally released as a separate game for the neo geo pocket color on april 27, 2000 the gameplay in memories off follows a linear plot line, which offers pre-determined scenarios and courses of interaction, and focuses on the appeal of the six female main characters
+memories off has made several transitions to other media a manga anthology was published in august 2000 by enterbrain it was followed by an original video animation series produced by e&amp;g films released on three dvds and vhss between november 11, 2001 and march 8, 2002 three novels and a drama cd were also produced</description>
 		<release>1999-09-30</release>
 		<genre>
 			<id>47</id>
-			<name>Visual novel</name>
+			<name>visual novel</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>48</id>
-		<name>TimeSplitters:  Future Perfect</name>
-		<description>TimeSplitters:  Future Perfect is a first-person shooter video game developed by Free Radical Design and published by EA Games for the PlayStation 2, GameCube and Xbox video game consoles
-It is the third game in the TimeSplitters series, after TimeSplitters 2, which was released in 2002 The game features a single-player mode consisting of levels where the player assumes the role of Sergeant Cortez, a time-traveling marine from the 25th century, as he attempts to go to the past to save the future The game also includes a range of multiplayer options including cooperative mode Online play was included in both the PlayStation 2 and Xbox versions
-In June 2007, a sequel was announced to be in development, titled TimeSplitters 4, however has since been shelved due to difficulties selling the idea to potential publishers based on Future Perfect's sales performance</description>
-		<publisher>Electronic Arts</publisher>
-		<mode>Multiplayer video game</mode>
+		<name>timesplitters:  future perfect</name>
+		<description>timesplitters:  future perfect is a first-person shooter video game developed by free radical design and published by ea games for the playstation 2, gamecube and xbox video game consoles
+it is the third game in the timesplitters series, after timesplitters 2, which was released in 2002 the game features a single-player mode consisting of levels where the player assumes the role of sergeant cortez, a time-traveling marine from the 25th century, as he attempts to go to the past to save the future the game also includes a range of multiplayer options including cooperative mode online play was included in both the playstation 2 and xbox versions
+in june 2007, a sequel was announced to be in development, titled timesplitters 4, however has since been shelved due to difficulties selling the idea to potential publishers based on future perfect's sales performance</description>
+		<publisher>electronic arts</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>48</id>
-			<name>First-person Shooter</name>
+			<name>first-person shooter</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>49</id>
-		<name>Samurai Shodown IV</name>
-		<description>Samurai Shodown IV:  Amakusa's Revenge, also known as Samurai Spirits:  Amakusa's Descent in Japan, is the fourth in SNK's flagship Samurai Shodown series of fighting games Chronologically, it is the second and final chapter of a story between Samurai Shodown and Samurai Shodown II, with Samurai Shodown III being the first chapter</description>
+		<name>samurai shodown iv</name>
+		<description>samurai shodown iv:  amakusa's revenge, also known as samurai spirits:  amakusa's descent in japan, is the fourth in snk's flagship samurai shodown series of fighting games chronologically, it is the second and final chapter of a story between samurai shodown and samurai shodown ii, with samurai shodown iii being the first chapter</description>
 		<release>1996-10-25</release>
-		<developer>PlaymoreSNK Playmore</developer>
-		<publisher>Playmore</publisher>
+		<developer>playmoresnk playmore</developer>
+		<publisher>playmore</publisher>
 		<genre>
 			<id>49</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>50</id>
-		<name>WolfQuest</name>
-		<description>WolfQuest is a 3D wildlife simulation video game developed by the Minnesota Zoo and game developer company Eduweb The game's main purpose is to help players understand wolves and the roles they play in nature by being virtually incarnated as a gray wolf themselves WolfQuest challenges players to learn about wolf ecology by living the life of a wild wolf in Yellowstone National Park and is a family-friendly, fun game for people of all ages
-A community forum is also available for registered users to learn about the game and download the latest version, as well as post tips and strategies, ask questions of wolf experts, share personal wolf artwork and stories, test their wolf knowledge with online polls and quizzes, compete for prizes, and participate in partner promotions at:  http: //wolfquestorg/bb
-The demo was released on October 31, 2007
-On December 21, 2007 it was released as a free downloadable game for Macintosh and Windows computers
-The official deluxe version was released on April 23, 2008
-There is a second episode of the game called Slough Creek:  Survival of the Pack, which was released on January 1, 2010</description>
+		<name>wolfquest</name>
+		<description>wolfquest is a 3d wildlife simulation video game developed by the minnesota zoo and game developer company eduweb the game's main purpose is to help players understand wolves and the roles they play in nature by being virtually incarnated as a gray wolf themselves wolfquest challenges players to learn about wolf ecology by living the life of a wild wolf in yellowstone national park and is a family-friendly, fun game for people of all ages
+a community forum is also available for registered users to learn about the game and download the latest version, as well as post tips and strategies, ask questions of wolf experts, share personal wolf artwork and stories, test their wolf knowledge with online polls and quizzes, compete for prizes, and participate in partner promotions at:  http: //wolfquestorg/bb
+the demo was released on october 31, 2007
+on december 21, 2007 it was released as a free downloadable game for macintosh and windows computers
+the official deluxe version was released on april 23, 2008
+there is a second episode of the game called slough creek:  survival of the pack, which was released on january 1, 2010</description>
 		<release>2008-07-11</release>
-		<mode>Single-player video game</mode>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>50</id>
-			<name>Life simulation</name>
+			<name>life simulation</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>51</id>
-		<name>Wild West Guns</name>
-		<description>Wild West Guns is a WiiWare and iPhone OS shooting video game by Gameloft For the Wii, it was released on August 1, 2008 in Europe, on August 4, 2008 in North America, and on August 5, 2008 in Japan It costs 1000 Wii Points On February 5, 2009, Gameloft released the game worldwide for the iPhone OS via the App Store It costs $499 USD</description>
+		<name>wild west guns</name>
+		<description>wild west guns is a wiiware and iphone os shooting video game by gameloft for the wii, it was released on august 1, 2008 in europe, on august 4, 2008 in north america, and on august 5, 2008 in japan it costs 1000 wii points on february 5, 2009, gameloft released the game worldwide for the iphone os via the app store it costs $499 usd</description>
 		<release>2008-08-04</release>
-		<developer>GameloftGameloft</developer>
-		<mode>Single-player video game</mode>
+		<developer>gameloftgameloft</developer>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>51</id>
-			<name>Light gun</name>
+			<name>light gun</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>52</id>
-		<name>The Elder Scrolls V:  Skyrim</name>
-		<description>The Elder Scrolls V:  Skyrim is an action role-playing video game developed by Bethesda Game Studios and published by Bethesda Softworks It is the fifth installment in The Elder Scrolls action role-playing video game series, following The Elder Scrolls IV:  Oblivion Skyrim was released on November 11, 2011, for Microsoft Windows, PlayStation 3 and Xbox 360 Three downloadable content add-ons were released;Dawnguard, Hearthfire and Dragonborn which were repackaged into The Elder Scrolls V:  Skyrim Legendary Edition, which released on June 4, 2013
-Skyrim's main story revolves around the player character's efforts to defeat Alduin, a Dragon who is prophesied to destroy the world Set two hundred years after the events of Oblivion, the game takes place in the fictional province of Skyrim Over the course of the game, the player completes quests and develops their character by improving their skills Unlike previous Elder Scrolls games, Skyrim does not require the player to select a character class at the beginning of the game, negating a problem the development team felt previous entries had by forcing the player into a rigid play-style too early in the game</description>
+		<name>the elder scrolls v:  skyrim</name>
+		<description>the elder scrolls v:  skyrim is an action role-playing video game developed by bethesda game studios and published by bethesda softworks it is the fifth installment in the elder scrolls action role-playing video game series, following the elder scrolls iv:  oblivion skyrim was released on november 11, 2011, for microsoft windows, playstation 3 and xbox 360 three downloadable content add-ons were released;dawnguard, hearthfire and dragonborn which were repackaged into the elder scrolls v:  skyrim legendary edition, which released on june 4, 2013
+skyrim's main story revolves around the player character's efforts to defeat alduin, a dragon who is prophesied to destroy the world set two hundred years after the events of oblivion, the game takes place in the fictional province of skyrim over the course of the game, the player completes quests and develops their character by improving their skills unlike previous elder scrolls games, skyrim does not require the player to select a character class at the beginning of the game, negating a problem the development team felt previous entries had by forcing the player into a rigid play-style too early in the game</description>
 		<release>2011-11-11</release>
-		<developer>Bethesda Game StudiosBethesda Game Studios</developer>
-		<publisher>Bethesda Softworks</publisher>
+		<developer>bethesda game studiosbethesda game studios</developer>
+		<publisher>bethesda softworks</publisher>
 		<genre>
 			<id>52</id>
-			<name>Action-adventure game</name>
+			<name>action-adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>53</id>
-		<name>CFL Football '99</name>
-		<description>CFL Football '99 is a gridiron football video game developed by Victoria, British Columbia-based entrepreneur David Winter It is an officially licensed product of the Canadian Football League and the Canadian Football League Players Association The title is best known for being the only video game based on the CFL to date
-Designer David Winter originally specialized in administrative and industrial applications, doing business through his private firm Wintervalley Software He obtained the rights to the CFL brand in 1998 and launched a new company, CDE, for the purpose of marketing CFL Football '99 Despite the launch of CDE, part of the game's development was outsourced to American middleware provider Phantom Reality</description>
+		<name>cfl football '99</name>
+		<description>cfl football '99 is a gridiron football video game developed by victoria, british columbia-based entrepreneur david winter it is an officially licensed product of the canadian football league and the canadian football league players association the title is best known for being the only video game based on the cfl to date
+designer david winter originally specialized in administrative and industrial applications, doing business through his private firm wintervalley software he obtained the rights to the cfl brand in 1998 and launched a new company, cde, for the purpose of marketing cfl football '99 despite the launch of cde, part of the game's development was outsourced to american middleware provider phantom reality</description>
 		<genre>
 			<id>53</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>54</id>
-		<name>Crazy War</name>
+		<name>crazy war</name>
 		<genre>
 			<id>54</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>55</id>
-		<name>Heat</name>
-		<description>Heat is an upcoming video game, based on the 1995 crime film with the same name It is under development by Gearbox Software for PlayStation 3, Xbox 360 During the E3 2009, Gearbox did not have the license of the film to make the game as it is being opened to be sold
-Michael Mann, director of the film, is reported to be involved
-In a recent interview Randy Pitchford President, CEO, and co-founder of Gearbox Software said that development of the game has been halted and the IP could potentially be available to pass onto another developer saying: 
-'In a nutshell, we're nowhere We have passionate game makers that would love to do it We've got filmmakers that think it's a great idea that would love to see it done We have publishing partners that would love to publish it But we have no time That's the limiting factor Because of the situation, we're not keeping the IP locked down anymore So if somebody else were in a spot where they could do it, and everybody was comfortable with that, then conceivably that could happen'</description>
-		<developer>Gearbox SoftwareGearbox Software</developer>
-		<mode>Multiplayer video game</mode>
+		<name>heat</name>
+		<description>heat is an upcoming video game, based on the 1995 crime film with the same name it is under development by gearbox software for playstation 3, xbox 360 during the e3 2009, gearbox did not have the license of the film to make the game as it is being opened to be sold
+michael mann, director of the film, is reported to be involved
+in a recent interview randy pitchford president, ceo, and co-founder of gearbox software said that development of the game has been halted and the ip could potentially be available to pass onto another developer saying: 
+'in a nutshell, we're nowhere we have passionate game makers that would love to do it we've got filmmakers that think it's a great idea that would love to see it done we have publishing partners that would love to publish it but we have no time that's the limiting factor because of the situation, we're not keeping the ip locked down anymore so if somebody else were in a spot where they could do it, and everybody was comfortable with that, then conceivably that could happen'</description>
+		<developer>gearbox softwaregearbox software</developer>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>55</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>56</id>
-		<name>Casper's Scare School</name>
-		<description>Casper's Scare School is an adventure video game released for the PlayStation 2 in the PAL region The Nintendo DS version is titled Casper's Scare School:  Classroom Capers, and is developed by Nikitova Games The DS version has simple gameplay and is targeted for young children, around 4 to 6 years old
-Both versions is based on the computer animated series Casper's Scare School The plot involves Casper the Friendly Ghost, having been sent to 'Scare School' by his three uncles, must thwart the school bully Thatch the Vampire's plan to turn all the characters to stone</description>
+		<name>casper's scare school</name>
+		<description>casper's scare school is an adventure video game released for the playstation 2 in the pal region the nintendo ds version is titled casper's scare school:  classroom capers, and is developed by nikitova games the ds version has simple gameplay and is targeted for young children, around 4 to 6 years old
+both versions is based on the computer animated series casper's scare school the plot involves casper the friendly ghost, having been sent to 'scare school' by his three uncles, must thwart the school bully thatch the vampire's plan to turn all the characters to stone</description>
 		<genre>
 			<id>56</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>57</id>
-		<name>Need for Speed:  Underground 2</name>
-		<description>Need for Speed:  Underground 2 is a cross-platform racing video game and the eighth installment in the popular Need for Speed driving game series published and developed by Electronic Arts Released in 2004, it is the direct sequel to Need for Speed:  Underground, and is part of the Need for Speed series, available on Microsoft Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance and Nintendo DS Like its predecessor, it was also commercially successful, and sold four million copies worldwide
-The game is based around tuning cars for street races, resuming the Need for Speed:  Underground storyline Need for Speed:  Underground 2 provides several new features, such as a broader customization, new methods of selecting races, mode The City Center was based on Philadelphia, Beacon Hill was based on Beverley Hills and Coal Harbor was based on Camden, New Jersey Underground 2 also introduces several SUVs, which could be customized as extensively as other Underground 2 vehicles and used to race against other SUV racers Brooke Burke is the voice of Rachel Teller, the person who guides the player throughout the game</description>
+		<name>need for speed:  underground 2</name>
+		<description>need for speed:  underground 2 is a cross-platform racing video game and the eighth installment in the popular need for speed driving game series published and developed by electronic arts released in 2004, it is the direct sequel to need for speed:  underground, and is part of the need for speed series, available on microsoft windows, playstation 2, xbox, gamecube, game boy advance and nintendo ds like its predecessor, it was also commercially successful, and sold four million copies worldwide
+the game is based around tuning cars for street races, resuming the need for speed:  underground storyline need for speed:  underground 2 provides several new features, such as a broader customization, new methods of selecting races, mode the city center was based on philadelphia, beacon hill was based on beverley hills and coal harbor was based on camden, new jersey underground 2 also introduces several suvs, which could be customized as extensively as other underground 2 vehicles and used to race against other suv racers brooke burke is the voice of rachel teller, the person who guides the player throughout the game</description>
 		<release>2004-11-09</release>
-		<developer>EA Black BoxEA Canada</developer>
-		<publisher>EA Games</publisher>
-		<mode>Multiplayer video game</mode>
+		<developer>ea black boxea canada</developer>
+		<publisher>ea games</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>57</id>
-			<name>Open world</name>
+			<name>open world</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>58</id>
-		<name>Jack the Ripper</name>
-		<description>Jack the Ripper is an adventure video game, based upon the unidentified serial killer Jack the Ripper The game was released for Windows based PCs in 2003 It was developed by Galilea Games and published by The Adventure Company
-The game is set in New York in 1901, where James Palmer, a reporter of the newspaper New York Today, is investigating a set of murders similar to those of 'Jack the Ripper' in Whitechapel 13 years earlier</description>
+		<name>jack the ripper</name>
+		<description>jack the ripper is an adventure video game, based upon the unidentified serial killer jack the ripper the game was released for windows based pcs in 2003 it was developed by galilea games and published by the adventure company
+the game is set in new york in 1901, where james palmer, a reporter of the newspaper new york today, is investigating a set of murders similar to those of 'jack the ripper' in whitechapel 13 years earlier</description>
 		<release>2003-12-31</release>
-		<publisher>The Adventure Company</publisher>
+		<publisher>the adventure company</publisher>
 		<genre>
 			<id>58</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>59</id>
-		<name>Cybernator</name>
-		<description>Cybernator - known in Japan as Assault Suits Valken - is a run and gun game released in 1992 for the Super Nintendo Entertainment System It is the indirect prequel to Target Earth as part of the Assault Suits series by NCS Corp The game was localized and published overseas by Konami A remake of Cybernator was released in 2004 for the PlayStation 2 The original Japanese releases featured artwork done by Satoshi Urushihara Cybernator was released on the Virtual Console in PAL regions on December 7, 2007, and in North America on December 17, 2007, both for the Wii and in North America for the Wii U on August 7, 2014</description>
+		<name>cybernator</name>
+		<description>cybernator - known in japan as assault suits valken - is a run and gun game released in 1992 for the super nintendo entertainment system it is the indirect prequel to target earth as part of the assault suits series by ncs corp the game was localized and published overseas by konami a remake of cybernator was released in 2004 for the playstation 2 the original japanese releases featured artwork done by satoshi urushihara cybernator was released on the virtual console in pal regions on december 7, 2007, and in north america on december 17, 2007, both for the wii and in north america for the wii u on august 7, 2014</description>
 		<release>1992-12-18</release>
-		<developer>National Console Support, IncMasaya</developer>
-		<publisher>Masaya</publisher>
-		<mode>Single-player video game</mode>
+		<developer>national console support, incmasaya</developer>
+		<publisher>masaya</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>59</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>60</id>
-		<name>The Queen of Heart</name>
+		<name>the queen of heart</name>
 		<genre>
 			<id>60</id>
-			<name>Fighting game</name>
+			<name>fighting game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>61</id>
-		<name>California Games</name>
-		<description>California Games is a 1987 Epyx sports video game for many home computers and video game consoles Branching from their popular Summer Games and Winter Games series, this game consisted of some sports purportedly popular in California including skateboarding, freestyle footbag, surfing, roller skating, flying disc and BMX
-The game sold very well, topping game selling charts for winter months It also got very positive reaction from reviewers, many of whom consider California Games to be the last classic Epyx sports game, due to staff changes not long after its release
-The game was followed in 1991 by California Games 2, but the sequel failed to match the original's success</description>
+		<name>california games</name>
+		<description>california games is a 1987 epyx sports video game for many home computers and video game consoles branching from their popular summer games and winter games series, this game consisted of some sports purportedly popular in california including skateboarding, freestyle footbag, surfing, roller skating, flying disc and bmx
+the game sold very well, topping game selling charts for winter months it also got very positive reaction from reviewers, many of whom consider california games to be the last classic epyx sports game, due to staff changes not long after its release
+the game was followed in 1991 by california games 2, but the sequel failed to match the original's success</description>
 		<release>1987-12-31</release>
-		<developer>EpyxEpyx</developer>
-		<mode>Multiplayer video game</mode>
+		<developer>epyxepyx</developer>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>61</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>62</id>
-		<name>Sunday vs Magazine:  M Daikessen</name>
-		<description>Sunday VS Magazine:  Setsu! M Daikessen is a fighting game developed by Konami Computer Entertainment Aomori and Hudson Soft and published by Konami for the PlayStation Portable The game celebrates the 50th anniversaries of shounen manga magazines ;Mnen Sunday and an nen Magazine published by Shogakukan and Kodansha respectively, featuring prominent manga characters from both publications as playable fighters</description>
+		<name>sunday vs magazine:  m daikessen</name>
+		<description>sunday vs magazine:  setsu! m daikessen is a fighting game developed by konami computer entertainment aomori and hudson soft and published by konami for the playstation portable the game celebrates the 50th anniversaries of shounen manga magazines ;mnen sunday and an nen magazine published by shogakukan and kodansha respectively, featuring prominent manga characters from both publications as playable fighters</description>
 		<release>2009-03-26</release>
-		<developer>Hudson SoftHudson Soft</developer>
-		<publisher>Konami</publisher>
-		<mode>Multiplayer video game</mode>
+		<developer>hudson softhudson soft</developer>
+		<publisher>konami</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>62</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>63</id>
-		<name>Commander Keen</name>
-		<description>Commander Keen is a 2001 video game in id Software's Commander Keen series It was developed by David A Palmer Productions and published by Activision for the Game Boy Color</description>
+		<name>commander keen</name>
+		<description>commander keen is a 2001 video game in id software's commander keen series it was developed by david a palmer productions and published by activision for the game boy color</description>
 		<release>2001-12-31</release>
-		<publisher>Activision</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>activision</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>63</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>64</id>
-		<name>Fonz</name>
+		<name>fonz</name>
 		<release>1976-12-31</release>
-		<developer>SegaSega</developer>
-		<publisher>Gremlin Industries</publisher>
-		<mode>Single-player video game</mode>
+		<developer>segasega</developer>
+		<publisher>gremlin industries</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>64</id>
-			<name>Racing video game</name>
+			<name>racing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>65</id>
-		<name>Alien Stars</name>
+		<name>alien stars</name>
 		<release>2005-12-31</release>
-		<publisher>Strategy First</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>strategy first</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>65</id>
-			<name>Arcade game</name>
+			<name>arcade game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>66</id>
-		<name>Topatoi</name>
-		<description>topatoi is an episodic platform video game developed by Boolat Games for the PlayStation 3
-The two episodes released so far are 'The Great Tree Story' and 'Pillar Of The Skies'
-In the game, players control a gyroscopic vehicle equipped with an array of multidimensional abilities They must use the abilities to make their way through a series of puzzles and over platforms
-A downloadable patch is available which adds a 'casual' mode, essentially an easy mode, as the game was first known to be quite difficult</description>
+		<name>topatoi</name>
+		<description>topatoi is an episodic platform video game developed by boolat games for the playstation 3
+the two episodes released so far are 'the great tree story' and 'pillar of the skies'
+in the game, players control a gyroscopic vehicle equipped with an array of multidimensional abilities they must use the abilities to make their way through a series of puzzles and over platforms
+a downloadable patch is available which adds a 'casual' mode, essentially an easy mode, as the game was first known to be quite difficult</description>
 		<genre>
 			<id>66</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>67</id>
-		<name>Crysis 2</name>
-		<description>Crysis 2 is a first-person shooter video game developed by Crytek, published by Electronic Arts and released in North America, Australia and Europe in March 2011 for Microsoft Windows, PlayStation 3, and Xbox 360 Officially announced on June 1, 2009, the game is the second main installment of the Crysis series, and is the sequel to the 2007 video game Crysis, and its expansion Crysis Warhead The story was written by science fiction author Richard Morgan Another science fiction author, Peter Watts, was also consulted and wrote a novel adaptation of the game It was the first game to showcase the CryEngine 3 game engine and the first game using the engine to be released on consoles</description>
+		<name>crysis 2</name>
+		<description>crysis 2 is a first-person shooter video game developed by crytek, published by electronic arts and released in north america, australia and europe in march 2011 for microsoft windows, playstation 3, and xbox 360 officially announced on june 1, 2009, the game is the second main installment of the crysis series, and is the sequel to the 2007 video game crysis, and its expansion crysis warhead the story was written by science fiction author richard morgan another science fiction author, peter watts, was also consulted and wrote a novel adaptation of the game it was the first game to showcase the cryengine 3 game engine and the first game using the engine to be released on consoles</description>
 		<release>2011-03-22</release>
-		<developer>Crytek UKCrytek</developer>
-		<publisher>Electronic Arts</publisher>
-		<mode>Multiplayer video game</mode>
+		<developer>crytek ukcrytek</developer>
+		<publisher>electronic arts</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>67</id>
-			<name>Shooter game</name>
+			<name>shooter game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>68</id>
-		<name>Custerd's Quest</name>
+		<name>custerd's quest</name>
 		<release>1986-12-31</release>
-		<publisher>Alpha-Omega Software</publisher>
+		<publisher>alpha-omega software</publisher>
 		<genre>
 			<id>68</id>
-			<name>Interactive fiction</name>
+			<name>interactive fiction</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>69</id>
-		<name>Sexy Poker</name>
-		<description>Sexy Poker is a strip poker video game by Gameloft originally released for mobile phone platforms in 2004 A WiiWare version was released in North America on August 3, 2009 and in Europe on September 25, 2009 It is the first ESRB M-rated game to be released for WiiWare</description>
+		<name>sexy poker</name>
+		<description>sexy poker is a strip poker video game by gameloft originally released for mobile phone platforms in 2004 a wiiware version was released in north america on august 3, 2009 and in europe on september 25, 2009 it is the first esrb m-rated game to be released for wiiware</description>
 		<release>2009-08-03</release>
-		<developer>GameloftGameloft</developer>
-		<publisher>Gameloft</publisher>
-		<mode>Single-player video game</mode>
+		<developer>gameloftgameloft</developer>
+		<publisher>gameloft</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>69</id>
-			<name>Simulation video game</name>
+			<name>simulation video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>70</id>
-		<name>Star Wars:  Masters ofsi</name>
-		<description>Star Wars:  Masters of Tersi is a Lucasarts fighting game released in 1997 and set in the fictional universe of Star Wars refers to a martial art used in the game both words have been borrowed from Finnish and they literally mean 'steel hand'</description>
+		<name>star wars:  masters ofsi</name>
+		<description>star wars:  masters of tersi is a lucasarts fighting game released in 1997 and set in the fictional universe of star wars refers to a martial art used in the game both words have been borrowed from finnish and they literally mean 'steel hand'</description>
 		<release>1997-10-31</release>
-		<developer>LucasArtsLucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<mode>Multiplayer video game</mode>
+		<developer>lucasartslucasarts</developer>
+		<publisher>lucasarts</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>70</id>
-			<name>Fighting game</name>
+			<name>fighting game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>71</id>
-		<name>Tower of Babel</name>
-		<description>Tower of Babel is a computer game for the Amiga, Atari ST and Acorn Archimedes systems programmed by Pete Cooke, developed by Rainbird Software and released by Microprose Software in 1989 It is a puzzle video game played on a three-dimensional tower-like grid viewed in vector graphics with filled polygons</description>
+		<name>tower of babel</name>
+		<description>tower of babel is a computer game for the amiga, atari st and acorn archimedes systems programmed by pete cooke, developed by rainbird software and released by microprose software in 1989 it is a puzzle video game played on a three-dimensional tower-like grid viewed in vector graphics with filled polygons</description>
 		<release>1989-12-31</release>
 		<genre>
 			<id>71</id>
@@ -848,706 +848,706 @@ A downloadable patch is available which adds a 'casual' mode, essentially an eas
 	</videogame>
 	<videogame>
 		<id>72</id>
-		<name>Resident Evil Outbreak:  File #2</name>
-		<description>Resident Evil Outbreak:  File #2, known in Japan as Biohazard:  Outbreak:  File 2, is a stand-alone expansion to the original Resident Evil Outbreak It was released for the PlayStation 2 in Japan on September 9, 2004 North America on April 26, 2005 and Europe on August 26, 2005
-Following the success of Outbreak in Japan, Capcom announced File #2 in fall of 2004 The same eight characters from the first title return with similar abilities, and the game once again takes place in a zombie-inhabited Raccoon City Five new scenarios are available, the first four being playable from the beginning In pre-ordered editions in Japan, the game was packaged with a demo of Devil May Cry 3 On January 1, 2014, the servers were opened back up to the public using alternate fan servers, thus, once again allowing for online play, along with new editions to the server such as banlists and leaderboards</description>
+		<name>resident evil outbreak:  file #2</name>
+		<description>resident evil outbreak:  file #2, known in japan as biohazard:  outbreak:  file 2, is a stand-alone expansion to the original resident evil outbreak it was released for the playstation 2 in japan on september 9, 2004 north america on april 26, 2005 and europe on august 26, 2005
+following the success of outbreak in japan, capcom announced file #2 in fall of 2004 the same eight characters from the first title return with similar abilities, and the game once again takes place in a zombie-inhabited raccoon city five new scenarios are available, the first four being playable from the beginning in pre-ordered editions in japan, the game was packaged with a demo of devil may cry 3 on january 1, 2014, the servers were opened back up to the public using alternate fan servers, thus, once again allowing for online play, along with new editions to the server such as banlists and leaderboards</description>
 		<release>2004-09-09</release>
-		<developer>CapcomCapcom</developer>
-		<publisher>Capcom</publisher>
-		<mode>Multiplayer video game</mode>
+		<developer>capcomcapcom</developer>
+		<publisher>capcom</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>72</id>
-			<name>Shooter game</name>
+			<name>shooter game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>73</id>
-		<name>Thrusta</name>
+		<name>thrusta</name>
 		<release>1983-12-31</release>
-		<publisher>Software Projects</publisher>
+		<publisher>software projects</publisher>
 		<genre>
 			<id>73</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>74</id>
-		<name>Mat Hoffman's Pro BMX 2</name>
-		<description>Mat Hoffman Pro BMX 2 is the sequel to Mat Hoffman's Pro BMX It was made available for the PlayStation 2, Xbox, Game Boy Advance and GameCube</description>
+		<name>mat hoffman's pro bmx 2</name>
+		<description>mat hoffman pro bmx 2 is the sequel to mat hoffman's pro bmx it was made available for the playstation 2, xbox, game boy advance and gamecube</description>
 		<release>2002-08-12</release>
-		<mode>Multiplayer video game</mode>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>74</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>75</id>
-		<name>Cricket 2004</name>
-		<description>Cricket 2004 is a 2004 video game based around the sport of cricket by EA Sports The game was designed by HB Studios, known for their EA Rugby Series It was released for the PlayStation 2 and Microsoft Windows</description>
+		<name>cricket 2004</name>
+		<description>cricket 2004 is a 2004 video game based around the sport of cricket by ea sports the game was designed by hb studios, known for their ea rugby series it was released for the playstation 2 and microsoft windows</description>
 		<release>2004-03-05</release>
-		<developer>HB StudiosHB Studios</developer>
-		<publisher>Electronic Arts</publisher>
+		<developer>hb studioshb studios</developer>
+		<publisher>electronic arts</publisher>
 		<genre>
 			<id>75</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>76</id>
-		<name>Monster Fair</name>
+		<name>monster fair</name>
 		<genre>
 			<id>76</id>
-			<name>Pinball</name>
+			<name>pinball</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>77</id>
-		<name>Music</name>
-		<description>Music is the common name of a series of music creation programs created by Jester Interactive and published by Codemasters The programs are tools that allow the user to create music This can be done either by inserting pre-made riffs and other sound samples, or creating original riffs by composing using musical notation It is also possible to create a music video to play along with the created music</description>
+		<name>music</name>
+		<description>music is the common name of a series of music creation programs created by jester interactive and published by codemasters the programs are tools that allow the user to create music this can be done either by inserting pre-made riffs and other sound samples, or creating original riffs by composing using musical notation it is also possible to create a music video to play along with the created music</description>
 		<genre>
 			<id>77</id>
-			<name>Music video game</name>
+			<name>music video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>78</id>
-		<name>Faces</name>
-		<description>Faces is a computer game developed by Spectrum HoloByte in 1990 for the Macintosh, Amiga and DOS</description>
+		<name>faces</name>
+		<description>faces is a computer game developed by spectrum holobyte in 1990 for the macintosh, amiga and dos</description>
 		<genre>
 			<id>78</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>79</id>
-		<name>Momoko 120%</name>
-		<description>Momoko 120% is a 1986 arcade game by Jaleco released only in Japan The game was originally intended to be an Urusei Yatsura game, but for an unknown reason the license was not obtained for the arcade version - while the characters were changed, the Urusei Yatsura opening music still loops throughout the game However, the Nintendo Family Computer port retained the license and was titled Urusei Yatsura:  Lum no Wedding Bell</description>
+		<name>momoko 120%</name>
+		<description>momoko 120% is a 1986 arcade game by jaleco released only in japan the game was originally intended to be an urusei yatsura game, but for an unknown reason the license was not obtained for the arcade version - while the characters were changed, the urusei yatsura opening music still loops throughout the game however, the nintendo family computer port retained the license and was titled urusei yatsura:  lum no wedding bell</description>
 		<release>1986-12-31</release>
-		<developer>Tose Co, LtdJaleco</developer>
-		<publisher>Jaleco</publisher>
-		<mode>Multiplayer video game</mode>
+		<developer>tose co, ltdjaleco</developer>
+		<publisher>jaleco</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>79</id>
-			<name>Platform game</name>
+			<name>platform game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>80</id>
-		<name>Metro-Cross</name>
-		<description>Metro-Cross is a platform arcade game that was released by Namco in 1985 It runs upon Namco Pac-Land hardware It uses a Motorola M6809 microprocessor, with a Hitachi HD63701 sub-microprocessor and Namco 8-channel waveform PSG for audio</description>
+		<name>metro-cross</name>
+		<description>metro-cross is a platform arcade game that was released by namco in 1985 it runs upon namco pac-land hardware it uses a motorola m6809 microprocessor, with a hitachi hd63701 sub-microprocessor and namco 8-channel waveform psg for audio</description>
 		<release>1985-05-30</release>
-		<developer>Now ProductionNamco</developer>
-		<publisher>US Gold</publisher>
+		<developer>now productionnamco</developer>
+		<publisher>us gold</publisher>
 		<genre>
 			<id>80</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>81</id>
-		<name>Star Wars:  Jedi Starfighter</name>
-		<description>Star Wars:  Jedi Starfighter is a video game for the PlayStation 2 and Xbox Released before Star Wars Episode II:  Attack of the Clones opened in theatres, it is the sequel to Star Wars:  Starfighter Jedi Starfighter takes place just prior to the second Star Wars film's events and during the Battle of Geonosis</description>
+		<name>star wars:  jedi starfighter</name>
+		<description>star wars:  jedi starfighter is a video game for the playstation 2 and xbox released before star wars episode ii:  attack of the clones opened in theatres, it is the sequel to star wars:  starfighter jedi starfighter takes place just prior to the second star wars film's events and during the battle of geonosis</description>
 		<release>2002-05-14</release>
-		<developer>LucasArtsLucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<mode>Cooperative gameplay</mode>
+		<developer>lucasartslucasarts</developer>
+		<publisher>lucasarts</publisher>
+		<mode>cooperative gameplay</mode>
 		<genre>
 			<id>81</id>
-			<name>Flight simulator</name>
+			<name>flight simulator</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>82</id>
-		<name>Burntime</name>
-		<description>Burntime is a strategy/RPG video game for DOS and Amiga computers produced by Max Design in 1993</description>
+		<name>burntime</name>
+		<description>burntime is a strategy/rpg video game for dos and amiga computers produced by max design in 1993</description>
 		<release>1993-12-31</release>
-		<developer>Max DesignMax Design</developer>
-		<mode>Single-player video game</mode>
+		<developer>max designmax design</developer>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>82</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>83</id>
-		<name>Attack of the Graske</name>
-		<description>The Rani draws the Doctor's First and Second incarnations into a time tunnel and traps his other incarnations in a time loop in Albert Square, bouncing back and forth between 1973, 1993 and 2013 She is also assembling a vast intergalactic menagerie, and needs an Earthling to complete her collection &amp;</description>
+		<name>attack of the graske</name>
+		<description>the rani draws the doctor's first and second incarnations into a time tunnel and traps his other incarnations in a time loop in albert square, bouncing back and forth between 1973, 1993 and 2013 she is also assembling a vast intergalactic menagerie, and needs an earthling to complete her collection &amp;</description>
 		<genre>
 			<id>83</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>84</id>
-		<name>Space Panic</name>
-		<description>Space Panic is a 1980 arcade game designed by Universal, which Chris Crawford calls the first -ever platform game, as it predates Nintendo's Donkey Kong which is often cited as the original platform game Space Panic lacks Donkey Kong's jump mechanic and the main character instead digs holes in the platforms into which he must lure the aliens He must then hit them to knock them out of the hole and off the screen In later levels, two or more holes must be lined up vertically in order to dispose of the aliens There is also a limited supply of oxygen</description>
+		<name>space panic</name>
+		<description>space panic is a 1980 arcade game designed by universal, which chris crawford calls the first -ever platform game, as it predates nintendo's donkey kong which is often cited as the original platform game space panic lacks donkey kong's jump mechanic and the main character instead digs holes in the platforms into which he must lure the aliens he must then hit them to knock them out of the hole and off the screen in later levels, two or more holes must be lined up vertically in order to dispose of the aliens there is also a limited supply of oxygen</description>
 		<release>1980-11-01</release>
-		<publisher>Universal Entertainment Corporation</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>universal entertainment corporation</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>84</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>85</id>
-		<name>Pocket Tennis Color</name>
-		<description>Pocket Tennis Color is a game from the Pocket Sports series for the Neo Geo Pocket Color handheld game system It features eight main characters with two secret, unlockable tennis pros</description>
+		<name>pocket tennis color</name>
+		<description>pocket tennis color is a game from the pocket sports series for the neo geo pocket color handheld game system it features eight main characters with two secret, unlockable tennis pros</description>
 		<release>1999-03-19</release>
-		<publisher>SNK Playmore</publisher>
-		<mode>Multiplayer video game</mode>
+		<publisher>snk playmore</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>85</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>86</id>
-		<name>A Business Tycoon</name>
+		<name>a business tycoon</name>
 		<release>2009-06-07</release>
 		<genre>
 			<id>86</id>
-			<name>Simulation video game</name>
+			<name>simulation video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>87</id>
-		<name>Pac &amp; Pal</name>
-		<description>Pac &amp; Pal is an arcade game that was released by Namco in July 1983 exclusively in Japan It runs on Namco Super Pac-Man hardware, and the object of the game is for Pac-Man to eat all the items before he is caught by the ghosts Most of the items are fruits from the original Pac-Man game, with a few new additions Their value varies, starting with cherries at 50 points, and ending with keys from 700 to 5000 points The items had to first be unlocked by turning over cards distributed around the maze Very few cabinets still exist today, and this is possibly one of the rarest Pac-Man titles to find in playable format outside Japan</description>
+		<name>pac &amp; pal</name>
+		<description>pac &amp; pal is an arcade game that was released by namco in july 1983 exclusively in japan it runs on namco super pac-man hardware, and the object of the game is for pac-man to eat all the items before he is caught by the ghosts most of the items are fruits from the original pac-man game, with a few new additions their value varies, starting with cherries at 50 points, and ending with keys from 700 to 5000 points the items had to first be unlocked by turning over cards distributed around the maze very few cabinets still exist today, and this is possibly one of the rarest pac-man titles to find in playable format outside japan</description>
 		<release>1983-07-30</release>
-		<developer>NamcoNamco</developer>
-		<publisher>Namco</publisher>
+		<developer>namconamco</developer>
+		<publisher>namco</publisher>
 		<genre>
 			<id>87</id>
-			<name>Puzzle game</name>
+			<name>puzzle game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>88</id>
-		<name>Marvel vs Capcom:  Clash of Super Heroes</name>
-		<description>Marvel vs Capcom:  Clash of Super Heroes is the fifth Marvel Comics-licensed fighting game by Capcom and the third game in the Marvel vs Capcom series The game was developed in late 1997 and first released in January 1998 Its later port for the PlayStation was released as Marvel vs Capcom:  EX Edition in Japan It was re-released in 2012 as part of Marvel vs Capcom Origins
-In contrast to X-Men vs Street Fighter and Marvel Super Heroes vs Street Fighter, the game features characters from numerous Capcom franchises such as Mega Man and Strider, rather than just Street Fighter characters The game takes place within the Marvel comic continuity, as Professor Charles Xavier calls out for heroes to stop him before he merges with the consciousness of Magneto and becomes the being known as Onslaught, the final boss</description>
+		<name>marvel vs capcom:  clash of super heroes</name>
+		<description>marvel vs capcom:  clash of super heroes is the fifth marvel comics-licensed fighting game by capcom and the third game in the marvel vs capcom series the game was developed in late 1997 and first released in january 1998 its later port for the playstation was released as marvel vs capcom:  ex edition in japan it was re-released in 2012 as part of marvel vs capcom origins
+in contrast to x-men vs street fighter and marvel super heroes vs street fighter, the game features characters from numerous capcom franchises such as mega man and strider, rather than just street fighter characters the game takes place within the marvel comic continuity, as professor charles xavier calls out for heroes to stop him before he merges with the consciousness of magneto and becomes the being known as onslaught, the final boss</description>
 		<release>1998-01-12</release>
-		<developer>CapcomCapcom</developer>
-		<publisher>Capcom</publisher>
+		<developer>capcomcapcom</developer>
+		<publisher>capcom</publisher>
 		<genre>
 			<id>88</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>89</id>
-		<name>Blagger</name>
-		<description>Blagger is a platform game created by Antony Crowther and released by Alligata for the Commodore 64 and BBC Micro computers in 1983, Acorn Electron, Amstrad CPC and MSX in 1984 and Commodore 16/Commodore Plus/4 in 1985 In some countries this game was released under the name Gangster The gameplay is similar to that of Manic Miner, also released in 1983 A sequel, Son of Blagger, was released in 1984 with a third and final title Blagger Goes to Hollywood released in 1985</description>
-		<developer>Antony CrowtherAntony Crowther</developer>
-		<publisher>Amsoft</publisher>
-		<mode>Single-player video game</mode>
+		<name>blagger</name>
+		<description>blagger is a platform game created by antony crowther and released by alligata for the commodore 64 and bbc micro computers in 1983, acorn electron, amstrad cpc and msx in 1984 and commodore 16/commodore plus/4 in 1985 in some countries this game was released under the name gangster the gameplay is similar to that of manic miner, also released in 1983 a sequel, son of blagger, was released in 1984 with a third and final title blagger goes to hollywood released in 1985</description>
+		<developer>antony crowtherantony crowther</developer>
+		<publisher>amsoft</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>89</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>90</id>
-		<name>Nomad Soul:  Exodus</name>
+		<name>nomad soul:  exodus</name>
 		<genre>
 			<id>90</id>
-			<name>Action-adventure game</name>
+			<name>action-adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>91</id>
-		<name>Read Only Memories</name>
-		<description>Read Only Memories is a cyberpunk adventure game featuring LGBT characters that is directed by John James and produced by MidBoss for Mac OS, Windows, Ouya, iOS and Android The game was heavily inspired by Snatcher, The Secret of Monkey Island and similar old-school adventures</description>
+		<name>read only memories</name>
+		<description>read only memories is a cyberpunk adventure game featuring lgbt characters that is directed by john james and produced by midboss for mac os, windows, ouya, ios and android the game was heavily inspired by snatcher, the secret of monkey island and similar old-school adventures</description>
 		<release>2014-11-30</release>
-		<developer>MidBossMidBoss</developer>
-		<publisher>MidBoss</publisher>
-		<mode>Single-player video game</mode>
+		<developer>midbossmidboss</developer>
+		<publisher>midboss</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>91</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>92</id>
-		<name>KZ Manager</name>
-		<description>KZ Manager is a name shared by many similar resource management computer games putting the player in the role of a Nazi concentration camp 'manager', where the 'resources' to be managed include, depending on the version of the game, prisoners, poison gas supplies, 'normal' money and various equipment, as well as 'public opinion' on the 'productivity' of the camp</description>
+		<name>kz manager</name>
+		<description>kz manager is a name shared by many similar resource management computer games putting the player in the role of a nazi concentration camp 'manager', where the 'resources' to be managed include, depending on the version of the game, prisoners, poison gas supplies, 'normal' money and various equipment, as well as 'public opinion' on the 'productivity' of the camp</description>
 		<release>1990-12-31</release>
-		<mode>Single-player video game</mode>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>92</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>93</id>
-		<name>Flappy</name>
-		<description>Flappy is a puzzle game by dB-Soft in the same vein as the Eggerland series and Sokoban that is obscure outside of Japan It features Flappy, a somewhat mole-like character who must complete each level by pushing a blue stone from its starting place to the blue tile destination
-Flappy first appeared on the Sharp X1 home computer in 1983 This debut was soon followed by with conversions to a number of popular Japanese computers in the early 1980s, including the NEC's line of PCs and the Fujitsu FM series As a puzzle game, it was well suited to these early systems since it didn't require a tremendous amount of graphical sophistication Ports for the MSX computer line and the Nintendo Famicom were released in 1985 DB-Soft produced a sequel with more difficult puzzles called King Flappy for the benefit of anyone who managed to clear the original 200 levels A Nintendo Game Boy port was released exclusively in Japan in 1990 and was published by Victor Musical Industries Over time, Flappy has continued to see many graphically improved upgrades, such as on the Windows platform and on several mobile phone devices It was released on Japan's Virtual Console in 2007</description>
+		<name>flappy</name>
+		<description>flappy is a puzzle game by db-soft in the same vein as the eggerland series and sokoban that is obscure outside of japan it features flappy, a somewhat mole-like character who must complete each level by pushing a blue stone from its starting place to the blue tile destination
+flappy first appeared on the sharp x1 home computer in 1983 this debut was soon followed by with conversions to a number of popular japanese computers in the early 1980s, including the nec's line of pcs and the fujitsu fm series as a puzzle game, it was well suited to these early systems since it didn't require a tremendous amount of graphical sophistication ports for the msx computer line and the nintendo famicom were released in 1985 db-soft produced a sequel with more difficult puzzles called king flappy for the benefit of anyone who managed to clear the original 200 levels a nintendo game boy port was released exclusively in japan in 1990 and was published by victor musical industries over time, flappy has continued to see many graphically improved upgrades, such as on the windows platform and on several mobile phone devices it was released on japan's virtual console in 2007</description>
 		<release>1983-12-31</release>
-		<publisher>dB-SOFT</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>db-soft</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>93</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>94</id>
-		<name>Mount &amp; Blade:  Warband</name>
-		<description>Mount &amp; Blade:  Warband is the first sequel to the action role-playing video game Mount &amp; Blade First announced in January 2009, the game was developed by the Turkish company TaleWorlds Entertainment and was published by Paradox Interactive on March 30, 2010 The game is available as a direct download from the TaleWorlds website or through the Steam digital distribution software, or as a DVD with required online activation Mac OSX and Linux versions were released on July 10, 2014 through Steam
-Warband expands on the original game by introducing a sixth faction, The Sarranid Sultanate, increasing the political options, allowing players to start their own faction, and incorporating multiplayer modes Reviews of the game were generally favourable, with the addition of multiplayer the most highly praised element This anticipated game won many awards, such as a nomination for the 'Best Indie Game of the Year' The game places a focus on being mounted on a horse and giving orders to one's warband in the field, such as telling archers to hold a position or infantry to use blunt weapons</description>
+		<name>mount &amp; blade:  warband</name>
+		<description>mount &amp; blade:  warband is the first sequel to the action role-playing video game mount &amp; blade first announced in january 2009, the game was developed by the turkish company taleworlds entertainment and was published by paradox interactive on march 30, 2010 the game is available as a direct download from the taleworlds website or through the steam digital distribution software, or as a dvd with required online activation mac osx and linux versions were released on july 10, 2014 through steam
+warband expands on the original game by introducing a sixth faction, the sarranid sultanate, increasing the political options, allowing players to start their own faction, and incorporating multiplayer modes reviews of the game were generally favourable, with the addition of multiplayer the most highly praised element this anticipated game won many awards, such as a nomination for the 'best indie game of the year' the game places a focus on being mounted on a horse and giving orders to one's warband in the field, such as telling archers to hold a position or infantry to use blunt weapons</description>
 		<release>2010-03-30</release>
-		<developer>TaleworldsTaleWorlds</developer>
-		<publisher>Paradox Interactive</publisher>
-		<mode>Single-player video game</mode>
+		<developer>taleworldstaleworlds</developer>
+		<publisher>paradox interactive</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>94</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>95</id>
-		<name>Rush</name>
+		<name>rush</name>
 		<release>2006-10-30</release>
-		<publisher>Midway Games</publisher>
-		<mode>Multiplayer video game</mode>
+		<publisher>midway games</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>95</id>
-			<name>Racing video game</name>
+			<name>racing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>96</id>
-		<name>Knight Rider:  The Game</name>
-		<description>Knight Rider:  The Game is a video game developed by Davilex Games based on the original television series of the same name
-The game was released in Europe on PlayStation 2 and PC on November 22, 2002 and in North America on the PC on February 12, 2003 The game allows the player to take control of KITT - the Knight Industries Two Thousand, in a range of missions including, racing, exploring, chasing and others The player will also meet famous villains from the original series, including KARR and Garthe Knight</description>
+		<name>knight rider:  the game</name>
+		<description>knight rider:  the game is a video game developed by davilex games based on the original television series of the same name
+the game was released in europe on playstation 2 and pc on november 22, 2002 and in north america on the pc on february 12, 2003 the game allows the player to take control of kitt - the knight industries two thousand, in a range of missions including, racing, exploring, chasing and others the player will also meet famous villains from the original series, including karr and garthe knight</description>
 		<release>2002-11-08</release>
-		<publisher>Davilex</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>davilex</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>96</id>
-			<name>Racing video game</name>
+			<name>racing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>97</id>
-		<name>The Combatribes</name>
-		<description>The Combatribes is a 1990 beat 'em Up released for the arcades by Technos Japan Corp A home version for the Super Nintendo Entertainment System was also released in 1992 The game centers around three vigilantes who must fight against numerous street gangs in New York The SNES version was released for the Wii Virtual Console in North America on November 30, 2009</description>
+		<name>the combatribes</name>
+		<description>the combatribes is a 1990 beat 'em up released for the arcades by technos japan corp a home version for the super nintendo entertainment system was also released in 1992 the game centers around three vigilantes who must fight against numerous street gangs in new york the snes version was released for the wii virtual console in north america on november 30, 2009</description>
 		<release>1990-06-30</release>
-		<publisher>TechnMs Japan</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>technms japan</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>97</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>98</id>
-		<name>Nightfall</name>
-		<description>Nightfall is an American computer game released in 1998 by Altor Systems, Inc It is claimed to be the first real-time 3D first person adventure game, as it was published in 1998, while the next most recent game known in that genre ; realMyst  ; was published in 2000 It employs a three dimensional world and sprites for objects such as vases and rats, as well as true 3D objects such as blocks and statues Essentially, the gameplay is a combination of 3D first-person shooters such as Doom, the gameplay found in Myst, with some additional elements</description>
+		<name>nightfall</name>
+		<description>nightfall is an american computer game released in 1998 by altor systems, inc it is claimed to be the first real-time 3d first person adventure game, as it was published in 1998, while the next most recent game known in that genre ; realmyst  ; was published in 2000 it employs a three dimensional world and sprites for objects such as vases and rats, as well as true 3d objects such as blocks and statues essentially, the gameplay is a combination of 3d first-person shooters such as doom, the gameplay found in myst, with some additional elements</description>
 		<release>1998-12-31</release>
-		<mode>Single-player video game</mode>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>98</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>99</id>
-		<name>Ratchet &amp; Clank:  Size Matters</name>
-		<description>Ratchet &amp; Clank:  Size Matters is a 2007 platformer video game developed by High Impact Games and published by Sony Computer Entertainment for the PlayStation Portable and PlayStation 2 The game is the first Ratchet &amp; Clank title on the PSP handheld Development company High Impact Games was spawned from the original Ratchet &amp; Clank developer, Insomniac Games The story is about Ratchet and Clank as they are interrupted from their vacation to search for a kidnapped girl and encounter a forgotten race known as the Technomites</description>
+		<name>ratchet &amp; clank:  size matters</name>
+		<description>ratchet &amp; clank:  size matters is a 2007 platformer video game developed by high impact games and published by sony computer entertainment for the playstation portable and playstation 2 the game is the first ratchet &amp; clank title on the psp handheld development company high impact games was spawned from the original ratchet &amp; clank developer, insomniac games the story is about ratchet and clank as they are interrupted from their vacation to search for a kidnapped girl and encounter a forgotten race known as the technomites</description>
 		<release>2007-02-13</release>
-		<developer>High Impact GamesHigh Impact Games</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<mode>Multiplayer video game</mode>
+		<developer>high impact gameshigh impact games</developer>
+		<publisher>sony computer entertainment</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>99</id>
-			<name>Action-adventure game</name>
+			<name>action-adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>100</id>
-		<name>Justice League Heroes</name>
-		<description>Justice League Heroes is a console video game for the Xbox, PlayStation 2, Nintendo DS, and PlayStation Portable systems It is based on DC Comics' premier superhero team, the Justice League of America It was developed by Snowblind Studios and published and distributed by Warner Bros Games for all systems except Xbox which was distributed by Eidos Interactive in conjunction with DC Comics It is based on the long running comic book series, and was written by veteran comic book and Justice League of America writer Dwayne McDuffie It uses the Dark Alliance Engine
-Two handheld Justice League Heroes games were released at the same time for the GBA and Nintendo DS systems The Nintendo DS game shares a similar visual style and gameplay mechanics to the console game, but serves as a prequel to its story This version was developed by Sensory Sweep Studios The GBA version is titled Justice League Heroes:  The Flash and focused primarily on The Flash The game featured 2D sidescrolling action gameplay and a sidestory to the console game's plot This version was developed by WayForward Technologies</description>
+		<name>justice league heroes</name>
+		<description>justice league heroes is a console video game for the xbox, playstation 2, nintendo ds, and playstation portable systems it is based on dc comics' premier superhero team, the justice league of america it was developed by snowblind studios and published and distributed by warner bros games for all systems except xbox which was distributed by eidos interactive in conjunction with dc comics it is based on the long running comic book series, and was written by veteran comic book and justice league of america writer dwayne mcduffie it uses the dark alliance engine
+two handheld justice league heroes games were released at the same time for the gba and nintendo ds systems the nintendo ds game shares a similar visual style and gameplay mechanics to the console game, but serves as a prequel to its story this version was developed by sensory sweep studios the gba version is titled justice league heroes:  the flash and focused primarily on the flash the game featured 2d sidescrolling action gameplay and a sidestory to the console game's plot this version was developed by wayforward technologies</description>
 		<release>2006-10-17</release>
-		<developer>Sensory Sweep StudiosSnowblind Studios</developer>
-		<publisher>Eidos Interactive</publisher>
-		<mode>Cooperative gameplay</mode>
+		<developer>sensory sweep studiossnowblind studios</developer>
+		<publisher>eidos interactive</publisher>
+		<mode>cooperative gameplay</mode>
 		<genre>
 			<id>100</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>101</id>
-		<name>Pirates of the Caribbean:  Dead Man's Chest</name>
-		<description>Pirates of the Caribbean:  Dead Man's Chest is an action-adventure game based on the film of the same name developed by Griptonite Games and Amaze Entertainment for the Game Boy Advance, Nintendo DS and PSP It is an adventure game that follows the events of the movie while also bringing in new interactive elements that are not included in the movie</description>
+		<name>pirates of the caribbean:  dead man's chest</name>
+		<description>pirates of the caribbean:  dead man's chest is an action-adventure game based on the film of the same name developed by griptonite games and amaze entertainment for the game boy advance, nintendo ds and psp it is an adventure game that follows the events of the movie while also bringing in new interactive elements that are not included in the movie</description>
 		<release>2006-06-27</release>
-		<developer>Amaze EntertainmentGriptonite Games</developer>
-		<publisher>Disney Interactive Studios</publisher>
-		<mode>Multiplayer video game</mode>
+		<developer>amaze entertainmentgriptonite games</developer>
+		<publisher>disney interactive studios</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>101</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>102</id>
-		<name>Project HAMMER</name>
-		<description>Project HAMMER was a beat 'em up game that Nintendo Software Technology was developing for the Wii The game was originally announced at E3 2006 No information regarding the game has been released to the public or media since the game's original announcement Rumors began circulating in mid-June 2007 that the game was not going to be released, and that the development team had gone to work on other games Nintendo confirmed at E3 2007 that development is currently on hold Beth Llewelyn, senior director of public relations at Nintendo of America, made a point to note that despite the game not being a focus of Nintendo , Project HAMMER 'may come back' in the future As of 2014, there has been no news of the game, most likely an indication that the game has been cancelled</description>
+		<name>project hammer</name>
+		<description>project hammer was a beat 'em up game that nintendo software technology was developing for the wii the game was originally announced at e3 2006 no information regarding the game has been released to the public or media since the game's original announcement rumors began circulating in mid-june 2007 that the game was not going to be released, and that the development team had gone to work on other games nintendo confirmed at e3 2007 that development is currently on hold beth llewelyn, senior director of public relations at nintendo of america, made a point to note that despite the game not being a focus of nintendo , project hammer 'may come back' in the future as of 2014, there has been no news of the game, most likely an indication that the game has been cancelled</description>
 		<release>2007-06-30</release>
-		<platform>WiiWii</platform>
-		<developer>Nintendo Software TechnologyNintendo Software Technology</developer>
-		<publisher>NES</publisher>
+		<platform>wiiwii</platform>
+		<developer>nintendo software technologynintendo software technology</developer>
+		<publisher>nes</publisher>
 		<genre>
 			<id>102</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>103</id>
-		<name>Blade</name>
-		<description>Blade is a video game based on the 1998 film adaptation of the Blade character that starred Wesley Snipes The game was developed by Hammerhead and published by Activision for the Game Boy Color and PlayStation in 2000 It follows the adventure of Blade with help of his mentor and friend Abraham Whistler, and with old remembered enemies like Dragonetti and Mannheim</description>
+		<name>blade</name>
+		<description>blade is a video game based on the 1998 film adaptation of the blade character that starred wesley snipes the game was developed by hammerhead and published by activision for the game boy color and playstation in 2000 it follows the adventure of blade with help of his mentor and friend abraham whistler, and with old remembered enemies like dragonetti and mannheim</description>
 		<release>2000-11-30</release>
-		<publisher>Activision Blizzard</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>activision blizzard</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>103</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>104</id>
-		<name>Puzzle de Harvest Moon</name>
-		<description>Puzzle de Harvest Moon is a spin-off puzzle video game in the Harvest Moon series It was developed by Platinum Egg and published by Natsume on November 6, 2007</description>
+		<name>puzzle de harvest moon</name>
+		<description>puzzle de harvest moon is a spin-off puzzle video game in the harvest moon series it was developed by platinum egg and published by natsume on november 6, 2007</description>
 		<release>2007-11-06</release>
-		<publisher>Marvelous Entertainment Inc</publisher>
-		<mode>Multiplayer video game</mode>
+		<publisher>marvelous entertainment inc</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>104</id>
-			<name>Puzzle game</name>
+			<name>puzzle game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>105</id>
-		<name>Trials of Ascension</name>
+		<name>trials of ascension</name>
 		<release>2007-12-31</release>
-		<publisher>Shadowpool Studios</publisher>
+		<publisher>shadowpool studios</publisher>
 		<genre>
 			<id>105</id>
-			<name>Massively multiplayer online role-playing game</name>
+			<name>massively multiplayer online role-playing game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>106</id>
-		<name>Boxing Action</name>
-		<publisher>AQ Interactive</publisher>
+		<name>boxing action</name>
+		<publisher>aq interactive</publisher>
 		<genre>
 			<id>106</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>107</id>
-		<name>Tenchi Muyo! Game Hen</name>
-		<description>Tenchi Muyo! Game Hen, also known as Tenchi Muyo! RPG, is a Japanese role-playing strategy game developed by Banpresto for the Super Famicom, released on October 27, 1995 It was licensed by AIC and the now former Pioneer LDC While Tenchi Muyou! Game Hen was never officially translated and released for international consoles, the later dumped ROM image of the game was hacked and translated into English on two occasions Lina`chan, Nuku-Nuku &amp; Filia's Translations, or LNF, released their functional iteration in 2000, albeit some bugs and textual imperfections</description>
+		<name>tenchi muyo! game hen</name>
+		<description>tenchi muyo! game hen, also known as tenchi muyo! rpg, is a japanese role-playing strategy game developed by banpresto for the super famicom, released on october 27, 1995 it was licensed by aic and the now former pioneer ldc while tenchi muyou! game hen was never officially translated and released for international consoles, the later dumped rom image of the game was hacked and translated into english on two occasions lina`chan, nuku-nuku &amp; filia's translations, or lnf, released their functional iteration in 2000, albeit some bugs and textual imperfections</description>
 		<release>1995-10-27</release>
-		<developer>TamTam Co, LtdBanpresto</developer>
-		<publisher>Banpresto</publisher>
-		<mode>Single-player video game</mode>
+		<developer>tamtam co, ltdbanpresto</developer>
+		<publisher>banpresto</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>107</id>
-			<name>Role-playing video game</name>
+			<name>role-playing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>108</id>
-		<name>Action Fighter</name>
-		<description>Action Fighter is an overhead vehicular combat game released by Sega in 1986
-It mimics the style of other games such as Spy Hunter and Traverse USA The player begins the game riding a superbike In subsequent levels a sports car, jetski, helicopter and Formula One racing car can all be driven, as seen in the game's title screen All of the vehicles are fully armed to deal with enemy vehicles and gun emplacements intent on stopping the player's progress The helicopter levels play as a vertically scrolling shoot 'em up and resembles Xevious
-This game was also ported to the Sega Master System and later to all the most popular home computer platforms</description>
+		<name>action fighter</name>
+		<description>action fighter is an overhead vehicular combat game released by sega in 1986
+it mimics the style of other games such as spy hunter and traverse usa the player begins the game riding a superbike in subsequent levels a sports car, jetski, helicopter and formula one racing car can all be driven, as seen in the game's title screen all of the vehicles are fully armed to deal with enemy vehicles and gun emplacements intent on stopping the player's progress the helicopter levels play as a vertically scrolling shoot 'em up and resembles xevious
+this game was also ported to the sega master system and later to all the most popular home computer platforms</description>
 		<release>1986-12-31</release>
-		<developer>SegaSega</developer>
-		<publisher>Sega</publisher>
+		<developer>segasega</developer>
+		<publisher>sega</publisher>
 		<genre>
 			<id>108</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>109</id>
-		<name>Philosoma</name>
-		<description>Philosoma is a video game for the Sony PlayStation, released in 1995 and published by Sony Computer Entertainment America</description>
+		<name>philosoma</name>
+		<description>philosoma is a video game for the sony playstation, released in 1995 and published by sony computer entertainment america</description>
 		<release>1995-07-28</release>
-		<publisher>Sony Computer Entertainment</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>sony computer entertainment</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>109</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>110</id>
-		<name>Agent Armstrong</name>
-		<description>Agent Armstrong is an action platformer video game for PlayStation and Microsoft Windows developed by King of the Jungle and published by Virgin Interactive This game makes its stateside debut as a side-scrolling shooter in the life of Contra and Metal Slug It is quite violent despite having an ELSPA 3+ age rating</description>
+		<name>agent armstrong</name>
+		<description>agent armstrong is an action platformer video game for playstation and microsoft windows developed by king of the jungle and published by virgin interactive this game makes its stateside debut as a side-scrolling shooter in the life of contra and metal slug it is quite violent despite having an elspa 3+ age rating</description>
 		<genre>
 			<id>110</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>111</id>
-		<name>Barrier</name>
-		<description>Barrier is a maze arcade game using vector graphics released by Vectorbeam in 1979 In this very basic game, players move a small triangle around on the grid, while attempting to avoid the diamonds that are also moving around on the grid Reaching the end of the grid teleports the player back to the front of the grid to gain points The game is played on a 3x9 grid that is displayed at angle to make it appear to be in 3-D The game was sold to Vectorbeam by Cinematronics</description>
+		<name>barrier</name>
+		<description>barrier is a maze arcade game using vector graphics released by vectorbeam in 1979 in this very basic game, players move a small triangle around on the grid, while attempting to avoid the diamonds that are also moving around on the grid reaching the end of the grid teleports the player back to the front of the grid to gain points the game is played on a 3x9 grid that is displayed at angle to make it appear to be in 3-d the game was sold to vectorbeam by cinematronics</description>
 		<release>1979-08-31</release>
-		<publisher>Vectorbeam</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>vectorbeam</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>111</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>112</id>
-		<name>Go Figure!</name>
-		<description>Go Figure! is a math game released in 1992 as part of Microsoft's Windows Entertainment Pack The object is to arrange four given numbers and operation symbols - addition, subtraction, multiplication, and division - to reach a given target number Points are awarded for correct answers and deducted for getting a wrong answer, taking too much time, or using hints The game has ten levels and ends when all levels are completed or the player runs out of points</description>
+		<name>go figure!</name>
+		<description>go figure! is a math game released in 1992 as part of microsoft's windows entertainment pack the object is to arrange four given numbers and operation symbols - addition, subtraction, multiplication, and division - to reach a given target number points are awarded for correct answers and deducted for getting a wrong answer, taking too much time, or using hints the game has ten levels and ends when all levels are completed or the player runs out of points</description>
 		<genre>
 			<id>112</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>113</id>
-		<name>Haunt</name>
-		<description>Haunt is a horror-themed adventure game developed by NanaOn-Sha and ode, and published by Microsoft Studios It was made available for download worldwide on the Xbox 360 via Xbox Live Arcade on January 18, 2012 The game requires the Kinect peripheral</description>
+		<name>haunt</name>
+		<description>haunt is a horror-themed adventure game developed by nanaon-sha and ode, and published by microsoft studios it was made available for download worldwide on the xbox 360 via xbox live arcade on january 18, 2012 the game requires the kinect peripheral</description>
 		<release>2012-01-18</release>
-		<developer>NanaOn-ShaNanaOn-Sha</developer>
-		<mode>Single-player video game</mode>
+		<developer>nanaon-shananaon-sha</developer>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>113</id>
-			<name>Puzzle game</name>
+			<name>puzzle game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>114</id>
-		<name>NCAA Football 12</name>
-		<description>NCAA Football 12 is a college football video game created by EA Sports and developed by EA Tiburon It is the successor to NCAA Football 11 in the NCAA Football series It was released on July 12, 2011 for the PlayStation 3 and Xbox 360</description>
+		<name>ncaa football 12</name>
+		<description>ncaa football 12 is a college football video game created by ea sports and developed by ea tiburon it is the successor to ncaa football 11 in the ncaa football series it was released on july 12, 2011 for the playstation 3 and xbox 360</description>
 		<release>2011-07-12</release>
-		<developer>EA TiburonEA Tiburon</developer>
-		<publisher>EA Sports</publisher>
-		<mode>Single-player video game</mode>
+		<developer>ea tiburonea tiburon</developer>
+		<publisher>ea sports</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>114</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>115</id>
-		<name>Animamundi:  Dark Alchemist</name>
-		<description>Animamundi:  Dark Alchemist is a Japanese gothic horror visual novel developed by Karin Entertainment and distributed by Hirameki International in the United States</description>
+		<name>animamundi:  dark alchemist</name>
+		<description>animamundi:  dark alchemist is a japanese gothic horror visual novel developed by karin entertainment and distributed by hirameki international in the united states</description>
 		<release>2004-12-31</release>
-		<publisher>Hirameki</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>hirameki</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>115</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>116</id>
-		<name>Pinball Hall of Fame:  The Gottlieb Collection</name>
-		<description>Pinball Hall of Fame:  The Gottlieb Collection is a pinball video game developed by FarSight Studios and published by Crave Entertainment The tables in the game are recreations of real tables The game was later released as Gottlieb Pinball Classics, published by System 3, in Europe and Australia This expanded version featured additional tables and was released in North America on Wii and PSP under the original name, Pinball Hall of Fame:  The Gottlieb Collection</description>
+		<name>pinball hall of fame:  the gottlieb collection</name>
+		<description>pinball hall of fame:  the gottlieb collection is a pinball video game developed by farsight studios and published by crave entertainment the tables in the game are recreations of real tables the game was later released as gottlieb pinball classics, published by system 3, in europe and australia this expanded version featured additional tables and was released in north america on wii and psp under the original name, pinball hall of fame:  the gottlieb collection</description>
 		<release>2004-11-16</release>
-		<developer>FarSight StudiosFarSight Studios</developer>
-		<publisher>System 3</publisher>
-		<mode>Multiplayer video game</mode>
+		<developer>farsight studiosfarsight studios</developer>
+		<publisher>system 3</publisher>
+		<mode>multiplayer video game</mode>
 		<genre>
 			<id>116</id>
-			<name>Action-adventure game</name>
+			<name>action-adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>117</id>
-		<name>Dead Space</name>
-		<description>Dead Space is a 2011 survival horror third-person shooter video game developed by IronMonkey Studios and published by Electronic Arts for iOS, BlackBerry Tablet OS, Xperia Play, Android and BlackBerry 10 devices The game was also scheduled for release on Windows Phone 8 as part of a deal with Nokia that saw several EA games released exclusively on Nokia branded Windows Phones, but it was cancelled prior to release
-Within the Dead Space series, the game is set after the events of the original Dead Space, but prior to the events of Dead Space 2 and shows how the Necromorph outbreak spread from the government to public sectors</description>
+		<name>dead space</name>
+		<description>dead space is a 2011 survival horror third-person shooter video game developed by ironmonkey studios and published by electronic arts for ios, blackberry tablet os, xperia play, android and blackberry 10 devices the game was also scheduled for release on windows phone 8 as part of a deal with nokia that saw several ea games released exclusively on nokia branded windows phones, but it was cancelled prior to release
+within the dead space series, the game is set after the events of the original dead space, but prior to the events of dead space 2 and shows how the necromorph outbreak spread from the government to public sectors</description>
 		<release>2011-01-25</release>
-		<publisher>Electronic Arts</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>electronic arts</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>117</id>
-			<name>Third-person Shooter</name>
+			<name>third-person shooter</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>118</id>
-		<name>FlatOut 3:  Chaos &amp; Destruction</name>
-		<description>FlatOut 3:  Chaos &amp; Destruction is a racing video game in the FlatOut series Developed by Team6 Game Studios, FlatOut 3 was not developed by Bugbear Entertainment, the original studio that was responsible for the previous games in the series
-The game was released for Microsoft Windows in 2011</description>
+		<name>flatout 3:  chaos &amp; destruction</name>
+		<description>flatout 3:  chaos &amp; destruction is a racing video game in the flatout series developed by team6 game studios, flatout 3 was not developed by bugbear entertainment, the original studio that was responsible for the previous games in the series
+the game was released for microsoft windows in 2011</description>
 		<release>2011-12-13</release>
-		<publisher>Strategy First</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>strategy first</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>118</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>119</id>
-		<name>Depths of Betrayal Collector's Edition</name>
-		<description>Depths of Betrayal Collector's Edition is Collector's Edition of Adventure Hidden Object Puzzle game, published in 2012 by Big Fish Games Depths of Betrayal Collector's Edition game is dedicated to the exploring the steampunk world, where steam golem gone berserk and start crashing everything he see Game released for Windows Standard Edition of Depths of Betrayal game not released yet</description>
+		<name>depths of betrayal collector's edition</name>
+		<description>depths of betrayal collector's edition is collector's edition of adventure hidden object puzzle game, published in 2012 by big fish games depths of betrayal collector's edition game is dedicated to the exploring the steampunk world, where steam golem gone berserk and start crashing everything he see game released for windows standard edition of depths of betrayal game not released yet</description>
 		<genre>
 			<id>119</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>120</id>
-		<name>Space Invaders</name>
-		<description>Space Invaders is an arcade video game developed by Tomohiro Nishikado and released in 1978 It was originally manufactured and sold by Taito in Japan, and was later licensed for production in the United States by the Midway division of Bally Space Invaders is one of the earliest shooting games and the aim is to defeat waves of aliens with a laser cannon to earn as many points as possible In designing the game, Nishikado drew inspiration from popular media:  Breakout, The War of the Worlds, and Star Wars To complete it, he had to design custom hardware and development tools
-It was one of the forerunners of modern video gaming and helped expand the video game industry from a novelty to a global industry When first released, Space Invaders was very successful
-The game has been the inspiration for other video games, re-released on numerous platforms, and led to several sequels The 1980 Atari 2600 version quadrupled the system's sales and became the first 'killer app' for video game consoles Space Invaders has been referenced and parodied in multiple television shows, and been a part of several video game and cultural exhibitions</description>
-		<mode>Single-player video game</mode>
+		<name>space invaders</name>
+		<description>space invaders is an arcade video game developed by tomohiro nishikado and released in 1978 it was originally manufactured and sold by taito in japan, and was later licensed for production in the united states by the midway division of bally space invaders is one of the earliest shooting games and the aim is to defeat waves of aliens with a laser cannon to earn as many points as possible in designing the game, nishikado drew inspiration from popular media:  breakout, the war of the worlds, and star wars to complete it, he had to design custom hardware and development tools
+it was one of the forerunners of modern video gaming and helped expand the video game industry from a novelty to a global industry when first released, space invaders was very successful
+the game has been the inspiration for other video games, re-released on numerous platforms, and led to several sequels the 1980 atari 2600 version quadrupled the system's sales and became the first 'killer app' for video game consoles space invaders has been referenced and parodied in multiple television shows, and been a part of several video game and cultural exhibitions</description>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>120</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>121</id>
-		<name>Dark Nebula:  Episode Two</name>
+		<name>dark nebula:  episode two</name>
 		<release>2010-08-05</release>
 		<genre>
 			<id>121</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>122</id>
-		<name>The Eire Raising Adventures of Seamus O'Mally</name>
+		<name>the eire raising adventures of seamus o'mally</name>
 		<release>1995-01-01</release>
 		<genre>
 			<id>122</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>123</id>
-		<name>Kingdom Elemental Tactics</name>
+		<name>kingdom elemental tactics</name>
 		<release>2006-06-26</release>
-		<publisher>Halycon Media GmbH &amp; Co KG</publisher>
+		<publisher>halycon media gmbh &amp; co kg</publisher>
 		<genre>
 			<id>123</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>124</id>
-		<name>Pony Luv</name>
+		<name>pony luv</name>
 		<release>2006-10-02</release>
 		<genre>
 			<id>124</id>
-			<name>Simulation video game</name>
+			<name>simulation video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>125</id>
-		<name>Gary Gadget:  Building Cars</name>
-		<publisher>Levandr i Norden AB</publisher>
+		<name>gary gadget:  building cars</name>
+		<publisher>levandr i norden ab</publisher>
 		<genre>
 			<id>125</id>
-			<name>Racing video game</name>
+			<name>racing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>126</id>
-		<name>Mr Driller:  Drill Till You Drop</name>
-		<description>Mr Driller:  Drill Till You Drop is a 2010 action puzzle game</description>
+		<name>mr driller:  drill till you drop</name>
+		<description>mr driller:  drill till you drop is a 2010 action puzzle game</description>
 		<release>2010-04-05</release>
-		<publisher>Bandai Namco Games</publisher>
+		<publisher>bandai namco games</publisher>
 		<genre>
 			<id>126</id>
-			<name>Puzzle game</name>
+			<name>puzzle game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>127</id>
-		<name>Big Game Trophy Hunter</name>
+		<name>big game trophy hunter</name>
 		<genre>
 			<id>127</id>
-			<name>Simulation video game</name>
+			<name>simulation video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>128</id>
-		<name>Invasion</name>
+		<name>invasion</name>
 		<genre>
 			<id>128</id>
-			<name>Shooter game</name>
+			<name>shooter game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>129</id>
-		<name>Finding Nemo:  Escape to the Big Blue</name>
+		<name>finding nemo:  escape to the big blue</name>
 		<release>2006-02-09</release>
 		<genre>
 			<id>129</id>
-			<name>Racing video game</name>
+			<name>racing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>130</id>
-		<name>Mad</name>
-		<publisher>Code Works, The</publisher>
+		<name>mad</name>
+		<publisher>code works, the</publisher>
 		<genre>
 			<id>130</id>
-			<name>Educational game</name>
+			<name>educational game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>131</id>
-		<name>Shotgate</name>
+		<name>shotgate</name>
 		<release>2008-09-17</release>
 		<genre>
 			<id>131</id>
-			<name>Action games</name>
+			<name>action games</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>132</id>
-		<name>Disney  " Pixar Toy Story 3</name>
+		<name>disney  " pixar toy story 3</name>
 		<release>2010-06-15</release>
 		<genre>
 			<id>132</id>
-			<name>Racing video game</name>
+			<name>racing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>133</id>
-		<name>Sexy Idol Mahjong:  Fashion Monogatari</name>
+		<name>sexy idol mahjong:  fashion monogatari</name>
 		<release>1994-09-16</release>
 		<genre>
 			<id>133</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>134</id>
-		<name>Charlie Chaplin</name>
+		<name>charlie chaplin</name>
 		<genre>
 			<id>134</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>135</id>
-		<name>The Hardy Boys:  Treasure on the Tracks</name>
+		<name>the hardy boys:  treasure on the tracks</name>
 		<release>2009-09-01</release>
 		<genre>
 			<id>135</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>136</id>
-		<name>Hired Team:  Trial GOLD</name>
+		<name>hired team:  trial gold</name>
 		<genre>
 			<id>136</id>
-			<name>Shooter game</name>
+			<name>shooter game</name>
 		</genre>
 	</videogame>
 	<videogame>
@@ -1556,479 +1556,479 @@ The game has been the inspiration for other video games, re-released on numerous
 		<release>2012-04-17</release>
 		<genre>
 			<id>137</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>138</id>
-		<name>Number Game</name>
+		<name>number game</name>
 		<genre>
 			<id>138</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>139</id>
-		<name>Touring Car Champions</name>
+		<name>touring car champions</name>
 		<genre>
 			<id>139</id>
-			<name>Racing video game</name>
+			<name>racing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>140</id>
-		<name>SUB</name>
-		<publisher>Thalamus Ltd</publisher>
+		<name>sub</name>
+		<publisher>thalamus ltd</publisher>
 		<genre>
 			<id>140</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>141</id>
-		<name>Young Justice Shadow Mission</name>
+		<name>young justice shadow mission</name>
 		<release>2012-04-23</release>
 		<genre>
 			<id>141</id>
-			<name>Platform game</name>
+			<name>platform game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>142</id>
-		<name>AE</name>
-		<publisher>Broederbund</publisher>
+		<name>ae</name>
+		<publisher>broederbund</publisher>
 		<genre>
 			<id>142</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>143</id>
-		<name>Gordian Tomb</name>
+		<name>gordian tomb</name>
 		<release>1991-01-01</release>
 		<genre>
 			<id>143</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>144</id>
-		<name>HueShift</name>
+		<name>hueshift</name>
 		<release>2012-07-05</release>
-		<publisher>All Civilized Planets</publisher>
+		<publisher>all civilized planets</publisher>
 		<genre>
 			<id>144</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>145</id>
-		<name>Zen Puzzle Garden</name>
+		<name>zen puzzle garden</name>
 		<release>2006-11-13</release>
 		<genre>
 			<id>145</id>
-			<name>Puzzle game</name>
+			<name>puzzle game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>146</id>
-		<name>Unreal II:  eXpanded MultiPlayer</name>
+		<name>unreal ii:  expanded multiplayer</name>
 		<genre>
 			<id>146</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>147</id>
-		<name>RIM:  Battle Planets</name>
-		<publisher>Fishtank Interactive</publisher>
+		<name>rim:  battle planets</name>
+		<publisher>fishtank interactive</publisher>
 		<genre>
 			<id>147</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>148</id>
-		<name>Valhalla Classics:  Episode 7 - The Gallery</name>
+		<name>valhalla classics:  episode 7 - the gallery</name>
 		<release>2003-09-01</release>
-		<publisher>Vulcan Software</publisher>
+		<publisher>vulcan software</publisher>
 		<genre>
 			<id>148</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>149</id>
-		<name>Adventures in the Galaxy of Fantabulous Wonderment</name>
+		<name>adventures in the galaxy of fantabulous wonderment</name>
 		<genre>
 			<id>149</id>
-			<name>Puzzle game</name>
+			<name>puzzle game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>150</id>
-		<name>Tiger Woods 99</name>
+		<name>tiger woods 99</name>
 		<release>1998-08-26</release>
 		<genre>
 			<id>150</id>
-			<name>Golf</name>
+			<name>golf</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>151</id>
-		<name>Sports TV:  Boxing!</name>
-		<publisher>Blackstar Interactive GmbH</publisher>
+		<name>sports tv:  boxing!</name>
+		<publisher>blackstar interactive gmbh</publisher>
 		<genre>
 			<id>151</id>
-			<name>Simulation video game</name>
+			<name>simulation video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>152</id>
-		<name>Gold and Glory:  The Road to El Dorado</name>
-		<description>Gold and Glory:  The Road to El Dorado is a platform video game based on the film The Road to El Dorado, developed by Planet Interactive for Game Boy Color and Revolution Software for the PlayStation and Microsoft Windows</description>
+		<name>gold and glory:  the road to el dorado</name>
+		<description>gold and glory:  the road to el dorado is a platform video game based on the film the road to el dorado, developed by planet interactive for game boy color and revolution software for the playstation and microsoft windows</description>
 		<release>2000-06-30</release>
-		<publisher>Ubisoft</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>ubisoft</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>152</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>153</id>
-		<name>Der Klomanager</name>
+		<name>der klomanager</name>
 		<release>2000-03-01</release>
-		<publisher>rondomedia Marketing &amp; Vertriebs GmbH</publisher>
+		<publisher>rondomedia marketing &amp; vertriebs gmbh</publisher>
 		<genre>
 			<id>153</id>
-			<name>Simulation video game</name>
+			<name>simulation video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>154</id>
-		<name>Medarot 5:  Susutake Mura no Tenkousei Kabuto/Kuwagata</name>
+		<name>medarot 5:  susutake mura no tenkousei kabuto/kuwagata</name>
 		<genre>
 			<id>154</id>
-			<name>Role-playing video game</name>
+			<name>role-playing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>155</id>
-		<name>Amazon Warrior</name>
-		<publisher>New Generation Software</publisher>
+		<name>amazon warrior</name>
+		<publisher>new generation software</publisher>
 		<genre>
 			<id>155</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>156</id>
-		<name>Gremlin</name>
+		<name>gremlin</name>
 		<genre>
 			<id>156</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>157</id>
-		<name>Scholastic I Spy</name>
+		<name>scholastic i spy</name>
 		<genre>
 			<id>157</id>
-			<name>Educational game</name>
+			<name>educational game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>158</id>
-		<name>Prime Time NFL Starring Deion Sanders</name>
+		<name>prime time nfl starring deion sanders</name>
 		<genre>
 			<id>158</id>
-			<name>American football</name>
+			<name>american football</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>159</id>
-		<name>Mah Jongg Solitaire</name>
+		<name>mah jongg solitaire</name>
 		<genre>
 			<id>159</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>160</id>
-		<name>Mighty Beanz Pocket Puzzles</name>
+		<name>mighty beanz pocket puzzles</name>
 		<release>2004-06-09</release>
 		<genre>
 			<id>160</id>
-			<name>Puzzle game</name>
+			<name>puzzle game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>161</id>
-		<name>ASH II:  Shadows</name>
+		<name>ash ii:  shadows</name>
 		<release>2012-01-19</release>
 		<genre>
 			<id>161</id>
-			<name>Role-playing video game</name>
+			<name>role-playing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>162</id>
-		<name>Yearn 2 Learn</name>
+		<name>yearn 2 learn</name>
 		<genre>
 			<id>162</id>
-			<name>Educational game</name>
+			<name>educational game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>163</id>
-		<name>Psychic Detective Series Vol2:  Memories</name>
+		<name>psychic detective series vol2:  memories</name>
 		<genre>
 			<id>163</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>164</id>
-		<name>Avatar Onslaught</name>
+		<name>avatar onslaught</name>
 		<genre>
 			<id>164</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>165</id>
-		<name>5-Letter-Kruiswoord</name>
+		<name>5-letter-kruiswoord</name>
 		<release>1990-01-01</release>
 		<genre>
 			<id>165</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>166</id>
-		<name>I Did It Mum!:  Picture Book</name>
+		<name>i did it mum!:  picture book</name>
 		<genre>
 			<id>166</id>
-			<name>Educational game</name>
+			<name>educational game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>167</id>
-		<name>Color Backgammon</name>
+		<name>color backgammon</name>
 		<release>1981-01-01</release>
 		<genre>
 			<id>167</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>168</id>
-		<name>EA Sports Active More Workouts</name>
+		<name>ea sports active more workouts</name>
 		<release>2009-11-17</release>
 		<genre>
 			<id>168</id>
-			<name>Exergaming</name>
+			<name>exergaming</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>169</id>
-		<name>Crillion</name>
+		<name>crillion</name>
 		<release>1990-07-21</release>
-		<publisher>Markt &amp; Technik</publisher>
+		<publisher>markt &amp; technik</publisher>
 		<genre>
 			<id>169</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>170</id>
-		<name>Enigma</name>
-		<publisher>Code Works, The</publisher>
+		<name>enigma</name>
+		<publisher>code works, the</publisher>
 		<genre>
 			<id>170</id>
-			<name>Simulation video game</name>
+			<name>simulation video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>171</id>
-		<name>Postal:  Special Delivery</name>
+		<name>postal:  special delivery</name>
 		<release>1998-01-01</release>
 		<genre>
 			<id>171</id>
-			<name>Shooter game</name>
+			<name>shooter game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>172</id>
-		<name>Bishoujo Noriko</name>
+		<name>bishoujo noriko</name>
 		<genre>
 			<id>172</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>173</id>
-		<name>The Binary</name>
+		<name>the binary</name>
 		<release>2011-10-01</release>
 		<genre>
 			<id>173</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>174</id>
-		<name>Breakthrough in the Ardennes</name>
-		<publisher>Strategic Simulations</publisher>
+		<name>breakthrough in the ardennes</name>
+		<publisher>strategic simulations</publisher>
 		<genre>
 			<id>174</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>175</id>
-		<name>RIM - Battle Planets</name>
+		<name>rim - battle planets</name>
 		<genre>
 			<id>175</id>
-			<name>Strategy video game</name>
+			<name>strategy video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>176</id>
-		<name>Ultraverse Prime</name>
+		<name>ultraverse prime</name>
 		<release>1994-06-13</release>
 		<genre>
 			<id>176</id>
-			<name>Beat 'em up</name>
+			<name>beat 'em up</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>177</id>
-		<name>Kuroneko-kan</name>
+		<name>kuroneko-kan</name>
 		<release>1993-07-09</release>
-		<publisher>Fairy Dust</publisher>
+		<publisher>fairy dust</publisher>
 		<genre>
 			<id>177</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>178</id>
-		<name>Marine Wars</name>
+		<name>marine wars</name>
 		<genre>
 			<id>178</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>179</id>
-		<name>The Golf Pro</name>
+		<name>the golf pro</name>
 		<genre>
 			<id>179</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>180</id>
-		<name>BounceCrazy</name>
+		<name>bouncecrazy</name>
 		<release>2009-01-26</release>
 		<genre>
 			<id>180</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>181</id>
-		<name>Abaddon:  Fallen Angel</name>
+		<name>abaddon:  fallen angel</name>
 		<genre>
 			<id>181</id>
-			<name>Role-playing video game</name>
+			<name>role-playing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>182</id>
-		<name>Men in Black 3</name>
+		<name>men in black 3</name>
 		<genre>
 			<id>182</id>
-			<name>Action-adventure game</name>
+			<name>action-adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>183</id>
-		<name>Dramatic Dungeon:  Sakura Taisen - Kimi Arugatame</name>
+		<name>dramatic dungeon:  sakura taisen - kimi arugatame</name>
 		<genre>
 			<id>183</id>
-			<name>Role-playing video game</name>
+			<name>role-playing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>184</id>
-		<name>City Centurian</name>
+		<name>city centurian</name>
 		<genre>
 			<id>184</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>185</id>
-		<name>Silent Hill:  Play Novel</name>
+		<name>silent hill:  play novel</name>
 		<genre>
 			<id>185</id>
-			<name>Adventure game</name>
+			<name>adventure game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>186</id>
-		<name>War Zone</name>
+		<name>war zone</name>
 		<genre>
 			<id>186</id>
-			<name>Action game</name>
+			<name>action game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>187</id>
-		<name>Star Command</name>
-		<description>Star Command, is a video game developed for iOS initially, Android, and eventually PCs The game is a space exploration and combat simulation game, with players acting as captain of a starship who is tasked with exploring the galaxy and defending his crew from hostile aliens
-The games developers successfully launched a Kickstarter campaign to fund the game's completion, originally set for December 2011 Major difficulties emerged in hitting deadlines, as the game was more complex to create than anticipated, and funding ran out A second and far larger Kickstarter was done in 2012, and the game was released on iOS on May 2, 2013 The Android version has been released, debuting in the Humble Mobile Bundle 2 on September 25, 2013, with PC and Macintosh versions to be released after that</description>
+		<name>star command</name>
+		<description>star command, is a video game developed for ios initially, android, and eventually pcs the game is a space exploration and combat simulation game, with players acting as captain of a starship who is tasked with exploring the galaxy and defending his crew from hostile aliens
+the games developers successfully launched a kickstarter campaign to fund the game's completion, originally set for december 2011 major difficulties emerged in hitting deadlines, as the game was more complex to create than anticipated, and funding ran out a second and far larger kickstarter was done in 2012, and the game was released on ios on may 2, 2013 the android version has been released, debuting in the humble mobile bundle 2 on september 25, 2013, with pc and macintosh versions to be released after that</description>
 		<release>2013-05-02</release>
-		<platform>AndroidiOS</platform>
+		<platform>androidios</platform>
 		<genre>
 			<id>187</id>
-			<name>Role-playing video game</name>
+			<name>role-playing video game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>188</id>
-		<name>Zaz</name>
-		<description>Zaz is a free software arcade action puzzle computer game, a little bit like Frozen Bubble The goal is to get rid of all incoming marbles by rearranging their order and making triplets or quartets of the same color It currently includes 12 different levels
-The game is available in the Debian repositories and fulfills the DFSG</description>
-		<mode>Single-player video game</mode>
+		<name>zaz</name>
+		<description>zaz is a free software arcade action puzzle computer game, a little bit like frozen bubble the goal is to get rid of all incoming marbles by rearranging their order and making triplets or quartets of the same color it currently includes 12 different levels
+the game is available in the debian repositories and fulfills the dfsg</description>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>188</id>
-			<name>Puzzle game</name>
+			<name>puzzle game</name>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>189</id>
-		<name>Metal Gear Solid:  The Legacy Collection</name>
-		<description>Metal Gear Solid:  The Legacy Collection is a video game compilation released exclusively for the PlayStation 3 It includes all the mainline Metal Gear games directed and designed by Hideo Kojima that were released from 1987 through 2012 Bonus content include motion comic adaptations of the Metal Gear Solid graphic novels by Kris Oprisko and Ashley Wood and a 100-page booklet that catalogs numerous promotional posters, brochures and advertisement related to the games in the compilation The collection was released in North and South America on July 9, 2013 and in Japan on July 11, 2013 The European version was released on September 13, 2013 and the Australian version was released on October 3, 2013</description>
+		<name>metal gear solid:  the legacy collection</name>
+		<description>metal gear solid:  the legacy collection is a video game compilation released exclusively for the playstation 3 it includes all the mainline metal gear games directed and designed by hideo kojima that were released from 1987 through 2012 bonus content include motion comic adaptations of the metal gear solid graphic novels by kris oprisko and ashley wood and a 100-page booklet that catalogs numerous promotional posters, brochures and advertisement related to the games in the compilation the collection was released in north and south america on july 9, 2013 and in japan on july 11, 2013 the european version was released on september 13, 2013 and the australian version was released on october 3, 2013</description>
 		<release>2013-07-09</release>
-		<publisher>Konami</publisher>
-		<mode>Single-player video game</mode>
+		<publisher>konami</publisher>
+		<mode>single-player video game</mode>
 		<genre>
 			<id>189</id>
 		</genre>
 	</videogame>
 	<videogame>
 		<id>190</id>
-		<name>Ridiculous Fishing</name>
-		<description>Ridiculous Fishing is a mobile fishing video game where players use motion and touch controls to catch fish and subsequently shoot them out of the sky for cash The game is known for its developers' battle against a cloned version of their game released by another company The game was developed and published by Vlambeer ;Rami Ismail and Jan Willem Nijman ;and released for iOS on March 14, 2013, and later that year for Android;Players cast a fishing line into the ocean and use motion controls to avoid fish as the hook sinks and to catch as many fish as possible as the reel retracts Players then touch the screen to shoot fish out of the sky for money that can be spent on upgrades Nijman developed the idea during a television show about tuna fishermen The game was first released as Flash game Radical Fishing with the same basic mechanics A year after Vlambeer began their iOS development, Gamenauts released Ninja Fishing, a clone of the game that hurt Vlambeer morale The team worked on other games and spoke publicly about the situation to a standing ovation at the 2012 Game Developers Conference before resolving to scrap the majority of their work and finish the game</description>
+		<name>ridiculous fishing</name>
+		<description>ridiculous fishing is a mobile fishing video game where players use motion and touch controls to catch fish and subsequently shoot them out of the sky for cash the game is known for its developers' battle against a cloned version of their game released by another company the game was developed and published by vlambeer ;rami ismail and jan willem nijman ;and released for ios on march 14, 2013, and later that year for android;players cast a fishing line into the ocean and use motion controls to avoid fish as the hook sinks and to catch as many fish as possible as the reel retracts players then touch the screen to shoot fish out of the sky for money that can be spent on upgrades nijman developed the idea during a television show about tuna fishermen the game was first released as flash game radical fishing with the same basic mechanics a year after vlambeer began their ios development, gamenauts released ninja fishing, a clone of the game that hurt vlambeer morale the team worked on other games and spoke publicly about the situation to a standing ovation at the 2012 game developers conference before resolving to scrap the majority of their work and finish the game</description>
 		<release>2013-03-14</release>
-		<developer>VlambeeriOS</developer>
-		<publisher>Vlambeer</publisher>
+		<developer>vlambeerios</developer>
+		<publisher>vlambeer</publisher>
 		<genre>
 			<id>190</id>
-			<name>Sports game</name>
+			<name>sports game</name>
 		</genre>
 	</videogame>
 </data>
