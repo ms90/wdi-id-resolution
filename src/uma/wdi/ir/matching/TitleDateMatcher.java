@@ -26,7 +26,7 @@ public class TitleDateMatcher extends CompoundMatcher
 
 	public TitleDateMatcher() 
 	{
-		AbstractMatcher m1 = new TitleMatcher();
+		AbstractMatcher m1 = new LevensteinTitleMatcher();
 		double w1 = 9;
 		
 		AbstractMatcher m2 = new DateMatcher();

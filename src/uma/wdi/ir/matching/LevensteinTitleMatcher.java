@@ -21,13 +21,13 @@ package uma.wdi.ir.matching;
 
 import uma.wdi.ir.similarity.LevensteinSimilarityFunction;
 
-public class TitleMatcher extends SimpleMatcher
+public class LevensteinTitleMatcher extends SimpleMatcher
 {
 	/**
 	 * Example of simple matcher: compare titles
 	 */
 
-	public TitleMatcher() {
-		super("title", new LevensteinSimilarityFunction(),0.95);
+	public LevensteinTitleMatcher() {
+		super("title", new LevensteinSimilarityFunction(),0.93);
 	}
 }
