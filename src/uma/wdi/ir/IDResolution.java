@@ -14,25 +14,12 @@
 
 package uma.wdi.ir;
 
-import java.util.Arrays;
-import java.util.LinkedList;
 import java.util.List;
 
 import uma.wdi.ir.blocking.BlockingByTitle;
 import uma.wdi.ir.blocking.BlockingOperator;
-import uma.wdi.ir.blocking.BlockingByYear;
-import uma.wdi.ir.blocking.NoBlockingOperator;
-import uma.wdi.ir.matching.CosineTitleMatcher;
-import uma.wdi.ir.matching.DiceTitleMatcher;
-import uma.wdi.ir.matching.JaccardTitleMatcher;
-import uma.wdi.ir.matching.JaroWinklerTitleMatcher;
-import uma.wdi.ir.matching.MongeElkanTitleMatcher;
-import uma.wdi.ir.matching.NeedlemanWunschTitleMatcher;
-import uma.wdi.ir.matching.SmithWatermanGotohTitleMatcher;
-import uma.wdi.ir.matching.TitleDateMatcher;
-import uma.wdi.ir.matching.DateMatcher;
-import uma.wdi.ir.matching.LevensteinTitleMatcher;
 import uma.wdi.ir.matching.AbstractMatcher;
+import uma.wdi.ir.matching.LevensteinTitleMatcher;
 
 public class IDResolution 
 {
