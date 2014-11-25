@@ -28,7 +28,7 @@ public class JaroWinklerSimilarityFunction implements SimilarityFunction
 	public double compare(String s1, String s2) 
 	{
 		JaroWinkler dist = new JaroWinkler();
-		return dist.getSimilarity(s1, s2);
+		return dist.getSimilarity(s1,s2);
 	}
 	
 }

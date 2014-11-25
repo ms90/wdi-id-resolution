@@ -28,7 +28,7 @@ public class JaccardSimilarityFunction implements SimilarityFunction
 	public double compare(String s1, String s2) 
 	{
 		JaccardSimilarity dist = new JaccardSimilarity();
-		return dist.getSimilarity(s1, s2);
+		return dist.getSimilarity(s1,s2);
 	}
 	
 }

@@ -28,7 +28,7 @@ public class CosineSimilarityFunction implements SimilarityFunction
 	public double compare(String s1, String s2) 
 	{
 		CosineSimilarity dist = new CosineSimilarity();
-		return dist.getSimilarity(s1, s2);
+		return dist.getSimilarity(s1,s2);
 	}
 	
 }

@@ -28,7 +28,6 @@ public class SmithWatermanGotohSimilarityFunction implements SimilarityFunction
 	public double compare(String s1, String s2) 
 	{
 		SmithWatermanGotoh dist = new SmithWatermanGotoh();
-		return dist.getSimilarity(s1, s2);
+		return dist.getSimilarity(s1,s2);
 	}
-	
 }
