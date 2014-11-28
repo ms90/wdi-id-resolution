@@ -97,19 +97,20 @@ public class IDResolution
 		
 		// PROJECT TODO: SPECIFY YOUR INPUT PARAMETERS HERE
 		// gold standard file
-		String fnGold = "resources/videogames/gold_1.csv";
-//		String fnGold = "resources/videogames/gold_2.csv";
+		String fnGold_1 = "resources/videogames/gold_1.csv";
+		String fnGold_2 = "resources/videogames/gold_2.csv";
 		// input files
-//		String fnDataset1 = "resources/videogames/xml/dbpedia_cleaned.xml";
-//		String fnDataset2 = "resources/videogames/xml/giantbomb_cleaned.xml";
-//		String fnDataset1 = "resources/videogames/xml/giantbomb_cleaned.xml";
-//		String fnDataset2 = "resources/videogames/xml/thegamesdb_cleaned.xml";
-		String fnDataset1 = "resources/videogames/xml/out_dbpedia.xml";
-		String fnDataset2 = "resources/videogames/xml/out_giantbomb.xml";
+		String fnDataset_1_1 = "resources/videogames/xml/dbpedia_cleaned.xml";
+		String fnDataset_1_2 = "resources/videogames/xml/giantbomb_cleaned.xml";
+		
+		String fnDataset_2_1 = "resources/videogames/xml/dbpedia_cleaned.xml";
+		String fnDataset_2_2 = "resources/videogames/xml/thegamesdb_merged.xml";
 		// path to ID tag 
 		String idPath = "/data/videogame/id";
 		
-		String fnOutput = "resources/videogames/matched-1-2_out.txt";
+		String fnOutput_1 = "resources/videogames/matched-1-2.txt";
+		String fnOutput_2 = "resources/videogames/matched-1-3.txt";
+		
 		String fnRegression = "resources/videogames/regression.csv";
 		
 		System.out.println("Matching by titles only");
@@ -126,8 +127,11 @@ public class IDResolution
 //		System.out.println("WITHOUT BLOCKING, Cosine:");
 //		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new NoBlockingOperator(), new CosineTitleMatcher(), true);
 		System.out.println("-------------------------------");
-		System.out.println("WITH BLOCKING, Levenstein:");
-		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new LevensteinTitleMatcher(), true);
+		System.out.println("DBP <==> GB, WITH BLOCKING, Levenstein:");
+		runEvaluation(fnDataset_1_1, fnDataset_1_2, idPath, fnGold_1, new BlockingByTitle(), new LevensteinTitleMatcher(), true);
+		System.out.println("-------------------------------");
+		System.out.println("DBP <==> GDB, WITH BLOCKING, Levenstein:");
+		runEvaluation(fnDataset_2_1, fnDataset_2_2, idPath, fnGold_2, new BlockingByTitle(), new LevensteinTitleMatcher(), true);
 //		System.out.println();
 //		System.out.println("WITH BLOCKING, NeedlemanWunsch:");
 //		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new BlockingByTitle(), new NeedlemanWunschTitleMatcher(), true);
@@ -167,7 +171,8 @@ public class IDResolution
 //		runEvaluation(fnDataset1, fnDataset2, idPath, fnGold, new DemoBlockingOperator(), new TitleDateMatcher(), true);
 //		System.out.println("----------------");
 		
-		runOutputResults(fnDataset1, fnDataset2, idPath, fnOutput, new BlockingByTitle(), new LevensteinTitleMatcher());
+		runOutputResults(fnDataset_1_1, fnDataset_1_2, idPath, fnOutput_1, new BlockingByTitle(), new LevensteinTitleMatcher());
+		runOutputResults(fnDataset_2_1, fnDataset_2_2, idPath, fnOutput_2, new BlockingByTitle(), new LevensteinTitleMatcher());
 		
 //		List<AbstractMatcher> matchers = Arrays.asList(new AbstractMatcher[]{new DemoTitleMatcher(),new DemoDateMatcher()});
 //		runWriteRegressionFile(fnDataset1, fnDataset2, idPath, fnGold, fnRegression, matchers);

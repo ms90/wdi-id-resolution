@@ -28,6 +28,6 @@ public class LevensteinTitleMatcher extends SimpleMatcher
 	 */
 
 	public LevensteinTitleMatcher() {
-		super("title", new LevensteinSimilarityFunction(),0.93);
+		super("title", new LevensteinSimilarityFunction(), 0.95);
 	}
 }
