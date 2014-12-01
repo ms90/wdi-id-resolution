@@ -28,8 +28,6 @@ public class LevensteinSimilarityFunction implements SimilarityFunction
 	public double compare(String s1, String s2) 
 	{
 		Levenstein dist = new Levenstein();
-		dist.score(s1, s2);
 		return 1-Math.abs(dist.score(s1,s2)/Math.max(s1.length(), s2.length()));
 	}
-	
 }

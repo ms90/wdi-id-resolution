@@ -36,7 +36,7 @@ import java.util.Set;
 import uma.wdi.ir.blocking.BlockingOperator;
 import uma.wdi.ir.blocking.BlockingByYear;
 import uma.wdi.ir.blocking.NoBlockingOperator;
-import uma.wdi.ir.matching.TitleMatcher;
+import uma.wdi.ir.matching.LevensteinTitleMatcher;
 import uma.wdi.ir.matching.AbstractMatcher;
 
 public class Evaluator 
@@ -88,7 +88,7 @@ public class Evaluator
 	// Main function, with some default values
 	public boolean evaluate(NodeMap m1, NodeMap m2, String goldStandard)
 	{
-		return evaluate(m1, m2, goldStandard, new NoBlockingOperator(), new TitleMatcher());
+		return evaluate(m1, m2, goldStandard, new NoBlockingOperator(), new LevensteinTitleMatcher());
 	}	
 	
 	// Writes a CSV file that can be loaded in RapidMiner for linear regression 
@@ -221,7 +221,7 @@ public class Evaluator
 		System.out.println("R = " + R);
 		System.out.println("F1 = " + F1);
 		System.out.println("Matching operations = " + countMatchingOperations);
-		System.out.println("Runtime = " + runTime + "ms");   
+		System.out.println("Runtime = " + runTime + " ms");   
 		System.out.println("Runtime in min. = " + runTimeMin);
 		if (printResList)
 		{
@@ -323,7 +323,7 @@ public class Evaluator
 		// End logging time
         Long endTime = new Date().getTime();
         runTime = endTime - startTime;
-        runTimeMin = Math.round((endTime - startTime)/60000);
+        runTimeMin = (endTime - startTime)/60000;
         
         countMatchingOperations = ma.getCount();
         
